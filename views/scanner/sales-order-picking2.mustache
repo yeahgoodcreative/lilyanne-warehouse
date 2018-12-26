@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+
+<html>
+    <!-- Head -->
+    {{> partials/scanner/head}}
+
+    <!-- Body -->
+    <body>
+        <!-- Navigation Header -->
+        <div class="header">
+            <a href="/" class="header-left"><h4>Back</h4></a>
+            <div class="header-center"><h3>Sales Order Picking</h3></div>
+            <a href="#" class="header-right"><h4>Submit</h4></a>
+        </div>
+
+        <!-- View -->
+        <div class="view">
+            <br />
+            
+            <div class="container">
+                <p>Item:</p>
+                <input type="text" name="item" autofocus>
+            </div>
+
+            <br />
+
+            <hr>
+
+            <div class="list">
+                <input type="text" name="orderId" value="{{orderId}}" style="display: none;">
+            {{#orderDetails}}
+                <a href="#" class="list-item pack-item">
+                    <input type="text" name="productId[]" value="{{productId}}" style="display: none;">
+                    <input type="text" name="description[]" value="{{description}}" style="display: none;">
+                    <input type="text" name="quantity[]" value="{{quantity}}" style="display: none;">
+
+                    <div class="left">
+                        <p><strong id="productId"></strong></p>
+                        <p id="description"></p>
+                        <p>Bin: <strong>NULL</strong></p>
+                    </div>
+
+                    <div class="right">
+                        <table>
+                            <tr>
+                                <td>Total:</td>
+                                <td id="total"></td>
+                            </tr>
+
+                            <tr>
+                                <td>Picked:</td>
+                                <td id="picked"></td>
+                            </tr>
+
+                            <tr>
+                                <td>Remain:</td>
+                                <td id="remain"></td>
+                            </tr>
+                        </table>
+                    </div>
+                </a>
+            {{/orderDetails}}
+            </div>
+        </div>
+
+        <!-- Script -->
+        <script>
+            $('.header-right').on('click', function() {
+                $('form').submit()
+            })
+        </script>
+
+        <script>
+            var orderId = $('input[name="orderId"]').val()
+
+            var itemsCount = $('.list-item').length
+            var items = []
+
+            for (var x = 0; x < itemsCount; x++) {
+                
+                // Get list item
+                var listItem = $('.list-item').eq(x)
+
+                // Get item attributes
+                
+                var productId = listItem.find('input[name="productId[]"]').val()
+                var description = listItem.find('input[name="description[]"]').val()
+                var quantity = listItem.find('input[name="quantity[]"]').val()
+
+                // Create item object
+                var item = {
+                    "productId": productId,
+                    "description": description,
+                    "quantity": quantity,
+                    "picked": 0
+                }
+
+                // Push item object to array
+                items.push(item)
+            }
+
+            // Render items
+            renderItems()
+
+            // If keypressed on item input
+            $('input[name="item"]').keypress(function(event) {
+                // Get keycode from event
+                var keycode = (event.keyCode ? event.keyCode : event.which)
+
+                // If keycode is the enter key
+                if (keycode == '13') {
+                    // Store item input value
+                    var itemInputVal = $('input[name="item"]').val()
+
+                    // Clear item input
+                    $('input[name="item"]').val('')
+
+                    // Iterate through items to find a match
+                    for (item of items) {
+                        // Match found
+                        if (item.productId == itemInputVal) {
+                            // Increment picked and re-render items
+                            item.picked += 1
+                            renderItems()
+                        }
+                    }
+
+                }
+            })
+
+            $('.header-right').on('click', function() {
+                $.ajax({
+                    type: 'POST',
+                    url: '/scanner/sales-order-picking3',
+                    data: {"orderId": orderId, "items": items},
+                    success: function(data, status, xhr) {
+                        document.open()
+                        document.write(xhr.responseText)
+                        document.close()
+                    }
+                })
+            })
+
+            function renderItems() {
+                // Render items
+                for (var x = 0; x < itemsCount; x++) {
+                    // Get list item
+                    var listItem = $('.list-item').eq(x)
+
+                    // Set item values
+                    listItem.find('#productId').text(items[x].productId)
+                    listItem.find('#description').text(items[x].description)
+                    listItem.find('#total').text(items[x].quantity)
+                    listItem.find('#picked').text(items[x].picked)
+                    listItem.find('#remain').text(items[x].quantity - items[x].picked)
+
+                    // Change item color based on remaining
+                    if (items[x].quantity - items[x].picked == 0) {
+                        if ($(listItem.hasClass('pack-item'))) {
+                            $(listItem.removeClass('pack-item'))
+                            $(listItem.addClass('packed-item'))
+                        }
+                    }
+                    else  if (items[x].quantity - items[x].picked > 0) {
+                        if ($(listItem.hasClass('packed-item'))) {
+                            $(listItem.removeClass('packed-item'))
+                            $(listItem.addClass('pack-item'))
+                        }
+                    }
+                }
+            }
+        </script>
+    </body>
+</html>

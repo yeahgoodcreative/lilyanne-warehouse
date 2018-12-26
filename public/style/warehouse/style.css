@@ -1,0 +1,197 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+html, body {
+    width: 100%;
+    height: 100%;
+
+    font-family: 'Roboto', sans-serif;
+}
+
+.header {
+    /* Size */
+    width: 100%;
+    height: 50px;
+
+    /* Text */
+    line-height: 50px;
+
+    /* FlexBox */
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: space-evenly;
+
+    /* Colour */
+    color: #000000;
+    background-color: #1abc9c;
+}
+
+.header-left {
+    /* FlexBox */
+    display: flex;
+    flex-grow: 1;
+    justify-content: flex-start;
+
+    /* Box Model */
+    padding: 0px 15px;
+
+    /* Color */
+    color: #ffffff;
+}
+
+.header-center {
+    /* FlexBox */
+    display: flex;
+    flex-grow: 1;
+    justify-content: center;
+
+    /* Box Model */
+    padding: 0px 15px;
+
+    /* Color */
+    color: #ffffff;
+}
+
+.header-right {
+    /* FlexBox */
+    display: flex;
+    flex-grow: 1;
+    justify-content: flex-end;
+
+    /* Box Model */
+    padding: 0px 15px;
+
+    /* Color */
+    color: #ffffff;
+}
+
+.header a {
+    display: inline-block;
+    padding: 0px 5px;
+
+    color: white;
+    text-decoration: none;
+}
+
+.view {
+    /* Size */
+    width: 100%;
+    height: calc(100% - 50px);
+
+    /* Content */
+    overflow-x: hidden;
+    overflow-y: scroll;
+}
+
+.orders-table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.orders-table tr {
+    height: 60px;
+
+    border-bottom: 1px solid black;
+}
+
+.orders-table tr:nth-child(1) {
+    height: 30px;
+
+    text-align: left;
+
+    border-width: 0px;
+
+    color: white;
+    background-color: #16a085;
+}
+
+.orders-table tr:nth-child(1) th {
+    padding: 0px 15px;
+}
+
+.orders-table td {
+    padding: 0px 15px;
+}
+
+.orders-table td a {
+    height: 30px;
+
+    margin: 0px 5px;
+    padding: 0px 8px;
+    display: inline-block;
+
+    line-height: 30px;
+    text-decoration: none;
+
+    color: black;
+    background-color: #3498db;
+}
+
+.orders-table .Shipped {
+    background-color: #55efc4;
+}
+
+.orders-table .Shipped a {
+    display: none;
+}
+
+.orders-table .Entered {
+    background-color: #fdcb6e;
+}
+
+.orders-table .Entered a {
+    display: none;
+}
+
+.orders-table .Void {
+    color: white;
+    background-color: #000000;
+}
+
+.orders-table .Void a {
+    display: none;
+}
+
+.orders-table td a:hover {
+    background-color: #2980b9;
+}
+
+.orders-table td .shipped {
+    background-color: #f1c40f;
+}
+
+.orders-table td .shipped:hover {
+    background-color: #f39c12;
+}
+
+.bins-table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.bins-table tr {
+    height: 60px;
+
+    border-bottom: 1px solid black;
+}
+
+.bins-table tr:nth-child(1) {
+    height: 30px;
+
+    text-align: left;
+
+    border-width: 0px;
+
+    color: white;
+    background-color: #16a085;
+}
+
+.bins-table tr:nth-child(1) th {
+    padding: 0px 15px;
+}
+
+.bins-table td {
+    padding: 0px 15px;
+}

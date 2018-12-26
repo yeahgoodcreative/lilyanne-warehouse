@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+
+<html>
+    <!-- Head -->
+    {{> partials/warehouse/head}}
+
+    <!-- Body -->
+    <body>
+        <!-- Header -->
+        <div class="header">
+            <!-- Left -->
+            <div class="header-left">
+                <h3>Warehouse</h3>
+            </div>
+
+            <!-- Right -->
+            <div class="header-right">
+                <a href="/orders"><h4>Orders</h4></a>
+                <a href="/bins"><h4>Bins</h4></a>
+                <a href="/items"><h4>Items</h4></a>
+            </div>
+        </div>
+
+        <!-- View -->
+        <div class="view">
+
+            <table class="orders-table">
+                <tr>
+                    <th>Order ID</th>
+                    <th>ByDesign Status</th>
+                    {{! <th>Integration Status</th> }}
+                    <th>Customer</th>
+                    {{! <th>Xero Status</th> }}
+                    {{! <th>Xero Actions</th> }}
+                    <th>Pack Status</th>
+                    <th>Printing Actions</th>
+                    <th>Order Actions</th>
+                </tr>
+
+            {{#orders}}
+                <tr class="{{orderInfo.status}}">
+                    <td>{{orderId}}</td>
+                    <td>{{orderInfo.status}}</td>
+                    {{! <td>{{integration.status}}</td> }}
+                    <td>{{orderInfo.billName1}}</td>
+                    {{! <td>Good</td> }}
+                    {{! <td>
+                        <a href=#>Send Invoice</a>
+                        <a href=#>Print Invoice</a>
+                    </td> }}
+                    {{#integration.pack.status}}
+                    <td>{{integration.pack.status}}</td>
+                    {{/integration.pack.status}}
+                    {{^integration.pack.status}}
+                    <td></td>
+                    {{/integration.pack.status}}
+                    <td>
+                        <a href="/orders/packslip?orderId={{orderId}}" target="_blank">Packslip</a>
+                        <a href="/orders/orderlabel?orderId={{orderId}}" target="_blank">Order Label</a>
+                        {{! <a href=#>Shipping Label</a> }}
+                    </td>
+                    <td>
+                        {{! <a href="/orders/setstatus?orderId={{orderId}}?status=packed" target="_blank">Packed</a> }}
+                        <a class="shipped" href="/orders/setstatus?orderId={{orderId}}?status=shipped" target="_blank">Shipped</a>
+                    </td>
+                </tr>
+            {{/orders}}
+            </table>
+        </div>
+    </body>
+</html>

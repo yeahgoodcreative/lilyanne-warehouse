@@ -1,0 +1,6 @@
+{
+    "name": "bydesign",
+    "version": "0.1.0",
+    "description": "A Node JS implementation of the ByDesign SOAP API's.",
+    "main": "index.js"
+}

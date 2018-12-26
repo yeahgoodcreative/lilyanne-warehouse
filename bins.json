@@ -1,0 +1,621 @@
+{
+    "bins": [
+        {
+            "bin-number": "A1-1A",
+            "location": "Main Warehouse",
+            "memo": "Section A Bay 1 - Row 1 Column A",
+            "items": [
+                {
+                    "item-number": "LKT1003",
+                    "name": "Large Locket - Silver with Crystals",
+                    "qty-onhand": 94,
+                    "qty-available": 93
+                }
+            ]
+        },
+        {
+            "bin-number": "A1-1B",
+            "location": "Main Warehouse",
+            "memo": "Section A Bay 1 - Row 1 Column B",
+            "items": [
+                {
+                    "item-number": "CH2009",
+                    "name": "Silver Oval Link Chain 75cm",
+                    "qty-onhand": 864,
+                    "qty-available": 864
+                }
+            ]
+        },
+        {
+            "bin-number": "A1-1C",
+            "location": "Main Warehouse",
+            "memo": "Section A Bay 1 - Row 1 Column C",
+            "items": [
+                {
+                    "item-number": "CH2101",
+                    "name": "Silver Rolo 4mm Chain 55-60cm",
+                    "qty-onhand": 89,
+                    "qty-available": 88
+                }
+            ]
+        },
+        {
+            "bin-number": "A1-1D",
+            "location": "Main Warehouse",
+            "memo": "Section A Bay 1 - Row 1 Column D",
+            "items": [
+                {
+                    "item-number": "LKT1000",
+                    "name": "Medium Locket - Silver",
+                    "qty-onhand": 72,
+                    "qty-available": 72
+                }
+            ]
+        },
+        {
+            "bin-number": "A1-1E",
+            "location": "Main Warehouse",
+            "memo": "Section A Bay 1 - Row 1 Column E",
+            "items": [
+                {
+                    "item-number": "LKT1001",
+                    "name": "Medium Locket - Silver with Crystals",
+                    "qty-onhand": 6,
+                    "qty-available": 5
+                }
+            ]
+        },
+        {
+            "bin-number": "A1-1F",
+            "location": "Main Warehouse",
+            "memo": "Section A Bay 1 - Row 1 Column F",
+            "items": [
+                {
+                    "item-number": "WP4012",
+                    "name": "Silver Tree of Life Window Plate",
+                    "qty-onhand": 667,
+                    "qty-available": 667
+                }
+            ]
+        },
+        {
+            "bin-number": "A1-1G",
+            "location": "Main Warehouse",
+            "memo": "Section A Bay 1 - Row 1 Column G",
+            "items": []
+        },
+        {
+            "bin-number": "A1-1H",
+            "location": "Main Warehouse",
+            "memo": "Section A Bay 1 - Row 1 Column H",
+            "items": []
+        },
+        {
+            "bin-number": "A1-1I",
+            "location": "Main Warehouse",
+            "memo": "Section A Bay 1 - Row 1 Column I",
+            "items": []
+        },
+        {
+            "bin-number": "A1-1J",
+            "location": "Main Warehouse",
+            "memo": "Section A Bay 1 - Row 1 Column J",
+            "items": []
+        },
+        {
+            "bin-number": "A1-1K",
+            "location": "Main Warehouse",
+            "memo": "Section A Bay 1 - Row 1 Column K",
+            "items": []
+        },
+        {
+            "bin-number": "A1-2A",
+            "location": "Main Warehouse",
+            "memo": "Section A Bay 1 - Row 2 Column A",
+            "items": [
+                {
+                    "item-number": "CM3020",
+                    "name": "Silver Live, Laugh, Love Charm",
+                    "qty-onhand": 272,
+                    "qty-available": 272
+                }
+            ]
+        },
+        {
+            "bin-number": "A1-2B",
+            "location": "Main Warehouse",
+            "memo": "Section A Bay 1 - Row 2 Column B",
+            "items": [
+                {
+                    "item-number": "CM3236",
+                    "name": "Silver Infinity with Crystals Charm",
+                    "qty-onhand": 468,
+                    "qty-available": 468
+                }
+            ]
+        },
+        {
+            "bin-number": "A1-2C",
+            "location": "Main Warehouse",
+            "memo": "Section A Bay 1 - Row 2 Column C",
+            "items": [
+                {
+                    "item-number": "CM3094",
+                    "name": "Open Heart Charm",
+                    "qty-onhand": 353,
+                    "qty-available": 353
+                }
+            ]
+        },
+        {
+            "bin-number": "A1-2D",
+            "location": "Main Warehouse",
+            "memo": "Section A Bay 1 - Row 2 Column D",
+            "items": [
+                {
+                    "item-number": "CM3222",
+                    "name": "Family in Silver Heart Charm",
+                    "qty-onhand": 757,
+                    "qty-available": 757
+                }
+            ]
+        },
+        {
+            "bin-number": "A1-2E",
+            "location": "Main Warehouse",
+            "memo": "Section A Bay 1 - Row 2 Column E",
+            "items": [
+                {
+                    "item-number": "CM3073",
+                    "name": "Silver Letter J Charm",
+                    "qty-onhand": 206,
+                    "qty-available": 206
+                }
+            ]
+        },
+        {
+            "bin-number": "A1-2F",
+            "location": "Main Warehouse",
+            "memo": "Section A Bay 1 - Row 2 Column F",
+            "items": [
+                {
+                    "item-number": "CM3207",
+                    "name": "Forever Family Charm",
+                    "qty-onhand": 441,
+                    "qty-available": 441
+                }
+            ]
+        },
+        {
+            "bin-number": "A1-2G",
+            "location": "Main Warehouse",
+            "memo": "Section A Bay 1 - Row 2 Column G",
+            "items": [
+                {
+                    "item-number": "CM3076",
+                    "name": "Silver Letter M Charm",
+                    "qty-onhand": 339,
+                    "qty-available": 339
+                }
+            ]
+        },
+        {
+            "bin-number": "A1-2H",
+            "location": "Main Warehouse",
+            "memo": "Section A Bay 1 - Row 2 Column H",
+            "items": [
+                {
+                    "item-number": "CM3223",
+                    "name": "Family in Gold Heart Charm",
+                    "qty-onhand": 178,
+                    "qty-available": 178
+                }
+            ]
+        },
+        {
+            "bin-number": "A1-2I",
+            "location": "Main Warehouse",
+            "memo": "Section A Bay 1 - Row 2 Column I",
+            "items": [
+                {
+                    "item-number": "CMA3360",
+                    "name": "Gold Open Heart Charm",
+                    "qty-onhand": 154,
+                    "qty-available": 154
+                }
+            ]
+        },
+        {
+            "bin-number": "A1-2J",
+            "location": "Main Warehouse",
+            "memo": "Section A Bay 1 - Row 2 Column J",
+            "items": [
+                {
+                    "item-number": "CM3082",
+                    "name": "Silver Letter S Charm",
+                    "qty-onhand": 119,
+                    "qty-available": 119
+                }
+            ]
+        },
+        {
+            "bin-number": "A1-2K",
+            "location": "Main Warehouse",
+            "memo": "Section A Bay 1 - Row 2 Column K",
+            "items": [
+                {
+                    "item-number": "CM3066",
+                    "name": "Silver Letter C Charm",
+                    "qty-onhand": 330,
+                    "qty-available": 330
+                }
+            ]
+        },
+        {
+            "bin-number": "A1-3A",
+            "location": "Main Warehouse",
+            "memo": "Section A Bay 1 - Row 3 Column A",
+            "items": [
+                {
+                    "item-number": "CMB3461",
+                    "name": "Heart Shaped Birthstone January Charm",
+                    "qty-onhand": 47,
+                    "qty-available": 47
+                }
+            ]
+        },
+        {
+            "bin-number": "A1-3B",
+            "location": "Main Warehouse",
+            "memo": "Section A Bay 1 - Row 3 Column B",
+            "items": [
+                {
+                    "item-number": "CM3145",
+                    "name": "Heart Shaped Birthstone September Charm",
+                    "qty-onhand": 1,
+                    "qty-available": 1
+                },
+                {
+                    "item-number": "CMB3469",
+                    "name": "Heart Shaped Birthstone September Charm",
+                    "qty-onhand": 32,
+                    "qty-available": 32
+                }
+            ]
+        },
+        {
+            "bin-number": "A1-3C",
+            "location": "Main Warehouse",
+            "memo": "Section A Bay 1 - Row 3 Column C",
+            "items": [
+                {
+                    "item-number": "AC1004",
+                    "name": "Simulated Pink Pearl Accent Charm",
+                    "qty-onhand": 128,
+                    "qty-available": 128
+                }
+            ]
+        },
+        {
+            "bin-number": "A1-3D",
+            "location": "Main Warehouse",
+            "memo": "Section A Bay 1 - Row 3 Column D",
+            "items": [
+                {
+                    "item-number": "CM3142",
+                    "name": "Heart Shaped Birthstone June Charm",
+                    "qty-onhand": 1,
+                    "qty-available": 1
+                },
+                {
+                    "item-number": "CMB3466",
+                    "name": "Heart Shaped Birthstone June Charm",
+                    "qty-onhand": 22,
+                    "qty-available": 22
+                }
+            ]
+        },
+        {
+            "bin-number": "A1-3E",
+            "location": "Main Warehouse",
+            "memo": "Section A Bay 1 - Row 3 Column E",
+            "items": [
+                {
+                    "item-number": "AC1002",
+                    "name": "Simulated Grey Pearl Accent Charm",
+                    "qty-onhand": 107,
+                    "qty-available": 107
+                }
+            ]
+        },
+        {
+            "bin-number": "A1-3F",
+            "location": "Main Warehouse",
+            "memo": "Section A Bay 1 - Row 3 Column F",
+            "items": [
+                {
+                    "item-number": "CM3083",
+                    "name": "Silver Letter T Charm",
+                    "qty-onhand": 79,
+                    "qty-available": 79
+                }
+            ]
+        },
+        {
+            "bin-number": "A1-3G",
+            "location": "Main Warehouse",
+            "memo": "Section A Bay 1 - Row 3 Column G",
+            "items": [
+                {
+                    "item-number": "CM3018",
+                    "name": "Rose Gold Open Heart Charm",
+                    "qty-onhand": 16,
+                    "qty-available": 16
+                }
+            ]
+        },
+        {
+            "bin-number": "A1-3H",
+            "location": "Main Warehouse",
+            "memo": "Section A Bay 1 - Row 3 Column H",
+            "items": [
+                {
+                    "item-number": "CM3141",
+                    "name": "Heart Shaped Birthstone May Charm",
+                    "qty-onhand": 2,
+                    "qty-available": 2
+                },
+                {
+                    "item-number": "CMB3465",
+                    "name": "Heart Shaped Birthstone May Charm",
+                    "qty-onhand": 27,
+                    "qty-available": 27
+                }
+            ]
+        },
+        {
+            "bin-number": "A1-3I",
+            "location": "Main Warehouse",
+            "memo": "Section A Bay 1 - Row 3 Column I",
+            "items": [
+                {
+                    "item-number": "WP4017",
+                    "name": "Silver Love Birds Window Plate",
+                    "qty-onhand": 265,
+                    "qty-available": 265
+                }
+            ]
+        },
+        {
+            "bin-number": "A1-3J",
+            "location": "Main Warehouse",
+            "memo": "Section A Bay 1 - Row 3 Column J",
+            "items": [
+                {
+                    "item-number": "CM3138",
+                    "name": "Heart Shaped Birthstone February Charm",
+                    "qty-onhand": 2,
+                    "qty-available": 2
+                },
+                {
+                    "item-number": "CMB3462",
+                    "name": "Heart Shaped Birthstone February Charm",
+                    "qty-onhand": 32,
+                    "qty-available": 32
+                }
+            ]
+        },
+        {
+            "bin-number": "A1-3K",
+            "location": "Main Warehouse",
+            "memo": "Section A Bay 1 - Row 3 Column K",
+            "items": [
+                {
+                    "item-number": "AC1001",
+                    "name": "Simulated Purple Pearl Accent Charm",
+                    "qty-onhand": 26,
+                    "qty-available": 26
+                }
+            ]
+        },
+        {
+            "bin-number": "A1-4A",
+            "location": "Main Warehouse",
+            "memo": "Section A Bay 1 - Row 4 Column A",
+            "items": [
+                {
+                    "item-number": "AC1000",
+                    "name": "Simulated Black Pearl Accent Charm",
+                    "qty-onhand": 101,
+                    "qty-available": 101
+                }
+            ]
+        },
+        {
+            "bin-number": "A1-4B",
+            "location": "Main Warehouse",
+            "memo": "Section A Bay 1 - Row 4 Column B",
+            "items": [
+                {
+                    "item-number": "CM3156",
+                    "name": "Sea Turtle with Crystals Charm",
+                    "qty-onhand": 201,
+                    "qty-available": 200
+                }
+            ]
+        },
+        {
+            "bin-number": "A1-4C",
+            "location": "Main Warehouse",
+            "memo": "Section A Bay 1 - Row 4 Column C",
+            "items": [
+                {
+                    "item-number": "CMA3359",
+                    "name": "Aunt In Silver Heart Charm",
+                    "qty-onhand": 100,
+                    "qty-available": 100
+                }
+            ]
+        },
+        {
+            "bin-number": "A1-4D",
+            "location": "Main Warehouse",
+            "memo": "Section A Bay 1 - Row 4 Column D",
+            "items": []
+        },
+        {
+            "bin-number": "A1-4E",
+            "location": "Main Warehouse",
+            "memo": "Section A Bay 1 - Row 4 Column E",
+            "items": [
+                {
+                    "item-number": "CM3068",
+                    "name": "Silver Letter E Charm",
+                    "qty-onhand": 874,
+                    "qty-available": 874
+                }
+            ]
+        },
+        {
+            "bin-number": "A1-4F",
+            "location": "Main Warehouse",
+            "memo": "Section A Bay 1 - Row 4 Column F",
+            "items": [
+                {
+                    "item-number": "SPA1202",
+                    "name": "Large Rose Gold Mum Statement Plate",
+                    "qty-onhand": 337,
+                    "qty-available": 337
+                }
+            ]
+        },
+        {
+            "bin-number": "A1-4G",
+            "location": "Main Warehouse",
+            "memo": "Section A Bay 1 - Row 4 Column G",
+            "items": [
+                {
+                    "item-number": "CMA3364",
+                    "name": "Silver Owl Charm",
+                    "qty-onhand": 182,
+                    "qty-available": 182
+                }
+            ]
+        },
+        {
+            "bin-number": "A1-4H",
+            "location": "Main Warehouse",
+            "memo": "Section A Bay 1 - Row 4 Column H",
+            "items": [
+                {
+                    "item-number": "CM3144",
+                    "name": "Heart Shaped Birthstone August Charm",
+                    "qty-onhand": 1,
+                    "qty-available": 1
+                },
+                {
+                    "item-number": "CMB3468",
+                    "name": "Heart Shaped Birthstone August Charm",
+                    "qty-onhand": 13,
+                    "qty-available": 13
+                }
+            ]
+        },
+        {
+            "bin-number": "A1-4I",
+            "location": "Main Warehouse",
+            "memo": "Section A Bay 1 - Row 4 Column I",
+            "items": [
+                {
+                    "item-number": "CM3245",
+                    "name": "Cat Charm",
+                    "qty-onhand": 283,
+                    "qty-available": 283
+                }
+            ]
+        },
+        {
+            "bin-number": "A1-4J",
+            "location": "Main Warehouse",
+            "memo": "Section A Bay 1 - Row 4 Column J",
+            "items": [
+                {
+                    "item-number": "CM3017",
+                    "name": "Rose Gold Heart with Crystals Charm",
+                    "qty-onhand": 207,
+                    "qty-available": 207
+                }
+            ]
+        },
+        {
+            "bin-number": "A1-4K",
+            "location": "Main Warehouse",
+            "memo": "Section A Bay 1 - Row 4 Column K",
+            "items": [
+                {
+                    "item-number": "WPC4039",
+                    "name": "Large Gold 3 Hearts Window Plate",
+                    "qty-onhand": 59,
+                    "qty-available": 59
+                }
+            ]
+        },
+        {
+            "bin-number": "A2-1A",
+            "location": "Main Warehouse",
+            "memo": "Section A Bay 2 - Row 1 Column A",
+            "items": []
+        },
+        {
+            "bin-number": "A2-1B",
+            "location": "Main Warehouse",
+            "memo": "Section A Bay 2 - Row 1 Column B",
+            "items": []
+        },
+        {
+            "bin-number": "A2-1C",
+            "location": "Main Warehouse",
+            "memo": "Section A Bay 2 - Row 1 Column C",
+            "items": [
+                {
+                    "item-number": "CH2103",
+                    "name": "Silver Ball Chain 45-50cm",
+                    "qty-onhand": 14,
+                    "qty-available": 14
+                }
+            ]
+        },
+        {
+            "bin-number": "A2-1D",
+            "location": "Main Warehouse",
+            "memo": "Section A Bay 2 - Row 1 Column D",
+            "items": [
+                {
+                    "item-number": "CH2209",
+                    "name": "Gold Oval Link Chain 75cm",
+                    "qty-onhand": 907,
+                    "qty-available": 906
+                }
+            ]
+        },
+        {
+            "bin-number": "A2-1E",
+            "location": "Main Warehouse",
+            "memo": "Section A Bay 2 - Row 1 Column E",
+            "items": []
+        },
+        {
+            "bin-number": "A2-1F",
+            "location": "Main Warehouse",
+            "memo": "Section A Bay 2 - Row 1 Column F",
+            "items": [
+                {
+                    "item-number": "WP4018",
+                    "name": "Medium Silver Tree Of Life Window Plate",
+                    "qty-onhand": 301,
+                    "qty-available": 301
+                }
+            ]
+        }
+    ]
+}

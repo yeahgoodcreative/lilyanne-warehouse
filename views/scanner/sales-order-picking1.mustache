@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+
+<html>
+    <!-- Head -->
+    {{> partials/scanner/head}}
+
+    <!-- Body -->
+    <body>
+        <!-- Navigation Header -->
+        <div class="header">
+            <a href="#" class="header-left"><h4>Back</h4></a>
+            <div class="header-center"><h3>Sales Order Picking</h3></div>
+            <a href="#" class="header-right"><h4>Submit</h4></a>
+        </div>
+
+        <!-- View -->
+        <div class="view">
+            <br />
+            
+            <div class="container">
+                <p>Sales Order Number:</p>
+                <input type="text" name="sales-order-number" autofocus>
+            </div>
+        </div>
+
+        <!-- Header Script -->
+        <script>
+            $('.header .header-left').on('click', function() {
+                window.history.back()
+            })
+        </script>
+
+        <!-- View Script -->
+        <script>
+            $('.header-right').on('click', function() {
+                $.ajax({
+                    type: 'POST',
+                    url: '/scanner/sales-order-picking2',
+                    data: {"sales-order-number": $('input[name="sales-order-number"]').val()},
+                    success: function(data, status, xhr) {
+                        document.open()
+                        document.write(xhr.responseText)
+                        document.close()
+                    }
+                })
+            })
+        </script>
+    </body>
+</html>

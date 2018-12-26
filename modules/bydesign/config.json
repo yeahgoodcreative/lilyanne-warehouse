@@ -1,0 +1,12 @@
+{
+    "hostname": "api.securefreedom.com",
+    "path": "/lilyannedesigns",
+    "port": 443,
+
+    "username": "IntegrationAPI",
+    "password": "sf!9]3NV^vh[_53D",
+
+    "onlineapi_path": "/webservice/onlineapi.asmx?wsdl",
+    "orderapi_path": "/webservice/orderapi.asmx?wsdl",
+    "inventoryapi_path": "/webservice/inventoryapi.asmx?wsdl"
+}

@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+
+<html>
+    <!-- Head -->
+    {{> partials/warehouse/head}}
+
+    <!-- Body -->
+    <body>
+        <!-- Header -->
+        <div class="header">
+            <!-- Left -->
+            <div class="header-left">
+                <h3>Warehouse</h3>
+            </div>
+
+            <!-- Right -->
+            <div class="header-right">
+                <a href="/orders"><h4>Orders</h4></a>
+                <a href="/bins"><h4>Bins</h4></a>
+                <a href="/items"><h4>Items</h4></a>
+            </div>
+        </div>
+
+        <!-- View -->
+        <div class="view">
+
+            <table class="bins-table">
+                <tr>
+                    <th>Item Number</th>
+                    <th>Name</th>
+                    <th>Qty On-Hand</th>
+                    <th>Qty Available</th>
+                </tr>
+
+            {{#items}}
+                <tr>
+                    <td>{{itemNumber}}</td>
+                    <td>{{name}}</td>
+                    <td>{{quantityOnHand}}</td>
+                    <td>{{quantityAvailable}}</td>
+                </tr>
+            {{/items}}
+            </table>
+        </div>
+    </body>
+</html>

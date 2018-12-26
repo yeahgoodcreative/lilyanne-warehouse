@@ -6,7 +6,9 @@ var orderSchema = new mongoose.Schema({
     dateModified: String,
 
     orderInfo: {},
-    orderDetailsInfo: []
+    orderDetailsInfo: [],
+
+    integration: {}
 })
 
 module.exports = mongoose.model('Order', orderSchema)
