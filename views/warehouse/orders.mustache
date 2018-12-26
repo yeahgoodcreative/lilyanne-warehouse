@@ -46,16 +46,18 @@
                         <a href=#>Send Invoice</a>
                         <a href=#>Print Invoice</a>
                     </td> }}
-                    {{#integration.pack.status}}
+                    {{#integration.pack}}
                     <td>{{integration.pack.status}}</td>
-                    {{/integration.pack.status}}
-                    {{^integration.pack.status}}
+                    {{/integration.pack}}
+                    {{^integration.pack}}
                     <td></td>
-                    {{/integration.pack.status}}
+                    {{/integration.pack}}
                     <td>
+                    {{#integration.pack}}
                         <a href="/orders/packslip?orderId={{orderId}}" target="_blank">Packslip</a>
                         <a href="/orders/orderlabel?orderId={{orderId}}" target="_blank">Order Label</a>
                         {{! <a href=#>Shipping Label</a> }}
+                    {{/integration.pack}}
                     </td>
                     <td>
                         <a class="shipped" href="/orders/setstatus?orderId={{orderId}}?status=shipped" target="_blank">Shipped</a>
