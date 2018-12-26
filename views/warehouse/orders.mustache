@@ -28,7 +28,6 @@
                 <tr>
                     <th>Order ID</th>
                     <th>ByDesign Status</th>
-                    {{! <th>Integration Status</th> }}
                     <th>Customer</th>
                     {{! <th>Xero Status</th> }}
                     {{! <th>Xero Actions</th> }}
@@ -41,7 +40,6 @@
                 <tr class="{{orderInfo.status}}">
                     <td>{{orderId}}</td>
                     <td>{{orderInfo.status}}</td>
-                    {{! <td>{{integration.status}}</td> }}
                     <td>{{orderInfo.billName1}}</td>
                     {{! <td>Good</td> }}
                     {{! <td>
@@ -60,7 +58,6 @@
                         {{! <a href=#>Shipping Label</a> }}
                     </td>
                     <td>
-                        {{! <a href="/orders/setstatus?orderId={{orderId}}?status=packed" target="_blank">Packed</a> }}
                         <a class="shipped" href="/orders/setstatus?orderId={{orderId}}?status=shipped" target="_blank">Shipped</a>
                     </td>
                 </tr>

@@ -32,7 +32,7 @@ app.use(bodyParser.urlencoded({ extended: true }))
 
 
 // Mongoose Connection
-mongoose.connect('mongodb://157.230.40.86:27017/lilyanneintegration', {useNewUrlParser: true, authSource: 'admin', user: 'yeahgood', pass: 'beginnings01'})
+mongoose.connect('mongodb://localhost:27017/lilyanneintegration', {useNewUrlParser: true, authSource: 'admin', user: 'yeahgood', pass: 'beginnings01'})
 var db = mongoose.connection
 
 
