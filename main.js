@@ -32,7 +32,7 @@ app.use(bodyParser.urlencoded({ extended: true }))
 
 
 // Mongoose Connection
-mongoose.connect('mongodb://localhost:27017/lilyanneintegration', {useNewUrlParser: true, authSource: 'admin', user: 'yeahgood', pass: 'beginnings01'})
+mongoose.connect('mongodb://lilyannejewellery.yeahgoodcreative.com.au:27017/lilyanneintegration', {useNewUrlParser: true, authSource: 'admin', user: 'yeahgood', pass: 'beginnings01'})
 var db = mongoose.connection
 
 
@@ -182,11 +182,62 @@ app.get('/scanner/sales-order-picking1', function(req, res) {
 })
 
 app.post('/scanner/sales-order-picking2', function(req, res) {
+    // Store order number from body
     var orderNumber = req.body['sales-order-number']
 
+    // Get order info from order number
     getOrderInfo(orderNumber, function(order) {
 
-        res.render('scanner/sales-order-picking2', {"orderId": order.orderId, "orderDetails": order.orderDetails})
+        // Arrays to store values
+        var itemPromises = []
+        var promises = {items: [], binPromises: []}
+
+        // Itreate through order details
+        for (detail of order.orderDetails) {
+
+            // Push promise to array
+            itemPromises.push(Item.findOne({itemNumber: detail.productId}))
+        }
+
+        // Get promised items
+        Promise.all(itemPromises).then(function(items) {
+            // console.log(items)
+
+            // Itreate through items
+            for (item of items) {
+                
+                // Check item exists
+                if (item) {
+                    // Push item to promises object
+                    promises.items.push(item)
+
+                    // Push bin promise to promises object
+                    promises.binPromises.push(Bin.findOne({items: item.id}))
+                }
+            }
+
+            // Get promised bins
+            Promise.all(promises.binPromises).then(function(bins) {
+
+                // Iterate through order details
+                for (var [detailIndex, detail] of order.orderDetails.entries()) {
+                    
+                    // Iterate through bins
+                    for (var [binIndex, bin] of bins.entries()) {
+
+                        // Check if item numbers match
+                        if (bin && promises.items[binIndex].itemNumber == detail.productId) {
+                            // Add binNumber to orderDetails object
+                            order.orderDetails[detailIndex].binNumber = bin.binNumber
+                        }
+    
+                    }
+                }
+
+                // Render view
+                res.render('scanner/sales-order-picking2', {"orderId": order.orderId, "orderDetails": order.orderDetails})
+            })
+        })
     })
 })
 
@@ -255,15 +306,21 @@ db.once('open', function() {
 })
 
 function getOrderInfo(orderId, callback) {
-    // Get order info
+    // Order info promise
     var orderInfoPromise = new Promise(function(resolve, reject) {
+
         byDesign.getOrderInfoV2('', orderId, function(orderInfo) {
             orderInfo = orderInfo['soap:Envelope']['soap:Body'][0]['GetOrderInfo_V2Response'][0]['GetOrderInfo_V2Result'][0]
         
             // Create a current order object
             var currentOrderInfo = {
                 repNumber: orderInfo.RepNumber[0],
-                customerNumber: orderInfo.CustomerNumber,
+                customerNumber: function () {
+                    if (orderInfo.CustomerNumber)
+                        return orderInfo.CustomerNumber[0]
+                    else
+                        return ''
+                },
                 status: orderInfo.Status[0],
                 orderDate: orderInfo.OrderDate[0],
                 billName1: orderInfo.BillName1[0],
@@ -302,8 +359,8 @@ function getOrderInfo(orderId, callback) {
         })
     })
 
-    // Get order details info
-    var orderDetailsInfoPromise = new Promise(function(resolve, reject) {
+    // Order detail info promise
+    var orderDetailInfoPromise = new Promise(function(resolve, reject) {
         byDesign.getOrderDetailsInfoV2('', orderId, function(orderDetailsInfo) {
             orderDetailsInfo = orderDetailsInfo['soap:Envelope']['soap:Body'][0]['GetOrderDetailsInfo_V2Response'][0]['GetOrderDetailsInfo_V2Result'][0]['OrderDetailsResponse'][0]['OrderDetailsResponseV2']
         
@@ -311,46 +368,48 @@ function getOrderInfo(orderId, callback) {
             var orderDetailsInfoArray = []
         
             // Iterate through each order detail
-            for (detailInfo of orderDetailsInfo) {
-                var detailInfoObject = {
-                    partyId: detailInfo.PartyID[0],
-                    orderDetailId: detailInfo.OrderDetailID[0],
-                    productId: detailInfo.ProductID[0],
-                    description: detailInfo.Description[0],
-                    quantity: detailInfo.Quantity[0],
-                    price: detailInfo.Price[0],
-                    volume: detailInfo.Volume[0],
-                    tax: detailInfo.Tax[0],
-                    taxableAmount: detailInfo.TaxableAmount[0],
-                    groupOwner: detailInfo.GroupOwner[0],
-                    parentOrderDetailId: detailInfo.ParentOrderDetailID[0],
-                    warehouseName: detailInfo.WarehouseName[0],
-                    warehouseEmail: detailInfo.WarehouseEmail[0],
-                    warehousePackSlipLine1: detailInfo.WarehousePackSlipLine1[0],
-                    warehousePackSlipLine2: detailInfo.WarehousePackSlipLine2[0],
-                    warehousePackSlipLine3: detailInfo.WarehousePackSlipLine3[0],
-                    warehousePackSlipLine4: detailInfo.WarehousePackSlipLine4[0],
-                    warehousePackSlipLine5: detailInfo.WarehousePackSlipLine5[0],
-                    warehousePackSlipLine6: detailInfo.WarehousePackSlipLine6[0],
-                    warehousePickupLocation: detailInfo.WarehousePickupLocation[0],
-                    warehouseCompanyTaxId: detailInfo.WarehouseCompanyTaxID[0],
-                    warehouseIntlCompanyName: detailInfo.WarehouseIntlCompanyName[0],
-                    warehousePackSlipTaxTitle: detailInfo.WarehousePackSlipTaxTitle[0],
-                    warehousePackSlipTaxPercentage: detailInfo.WarehousePackSlipTaxPercentage[0],
-                    packSlipProcessId: detailInfo.PackSlipProcessID[0],
-                    volume2: detailInfo.Volume2[0],
-                    volume3: detailInfo.Volume3[0],
-                    volume4: detailInfo.Volume4[0],
-                    otherPrice1: detailInfo.OtherPrice1[0],
-                    otherPrice2: detailInfo.OtherPrice2[0],
-                    otherPrice3: detailInfo.OtherPrice3[0],
-                    otherPrice4: detailInfo.OtherPrice4[0],
-                    packSlipProductId: detailInfo.PackSlipProductID[0],
-                    packSlipBarcode: detailInfo.PackSlipBarcode[0]
+            if (orderDetailsInfo) {
+                for (detailInfo of orderDetailsInfo) {
+                    var detailInfoObject = {
+                        partyId: detailInfo.PartyID[0],
+                        orderDetailId: detailInfo.OrderDetailID[0],
+                        productId: detailInfo.ProductID[0],
+                        description: detailInfo.Description[0],
+                        quantity: detailInfo.Quantity[0],
+                        price: detailInfo.Price[0],
+                        volume: detailInfo.Volume[0],
+                        tax: detailInfo.Tax[0],
+                        taxableAmount: detailInfo.TaxableAmount[0],
+                        groupOwner: detailInfo.GroupOwner[0],
+                        parentOrderDetailId: detailInfo.ParentOrderDetailID[0],
+                        warehouseName: detailInfo.WarehouseName[0],
+                        warehouseEmail: detailInfo.WarehouseEmail[0],
+                        warehousePackSlipLine1: detailInfo.WarehousePackSlipLine1[0],
+                        warehousePackSlipLine2: detailInfo.WarehousePackSlipLine2[0],
+                        warehousePackSlipLine3: detailInfo.WarehousePackSlipLine3[0],
+                        warehousePackSlipLine4: detailInfo.WarehousePackSlipLine4[0],
+                        warehousePackSlipLine5: detailInfo.WarehousePackSlipLine5[0],
+                        warehousePackSlipLine6: detailInfo.WarehousePackSlipLine6[0],
+                        warehousePickupLocation: detailInfo.WarehousePickupLocation[0],
+                        warehouseCompanyTaxId: detailInfo.WarehouseCompanyTaxID[0],
+                        warehouseIntlCompanyName: detailInfo.WarehouseIntlCompanyName[0],
+                        warehousePackSlipTaxTitle: detailInfo.WarehousePackSlipTaxTitle[0],
+                        warehousePackSlipTaxPercentage: detailInfo.WarehousePackSlipTaxPercentage[0],
+                        packSlipProcessId: detailInfo.PackSlipProcessID[0],
+                        volume2: detailInfo.Volume2[0],
+                        volume3: detailInfo.Volume3[0],
+                        volume4: detailInfo.Volume4[0],
+                        otherPrice1: detailInfo.OtherPrice1[0],
+                        otherPrice2: detailInfo.OtherPrice2[0],
+                        otherPrice3: detailInfo.OtherPrice3[0],
+                        otherPrice4: detailInfo.OtherPrice4[0],
+                        packSlipProductId: detailInfo.PackSlipProductID[0],
+                        packSlipBarcode: detailInfo.PackSlipBarcode[0]
+                    }
+    
+                    // Add object to array
+                    orderDetailsInfoArray.push(detailInfoObject)
                 }
-
-                // Add object to array
-                orderDetailsInfoArray.push(detailInfoObject)
             }
 
             // Resolve promise with orderDetailsInfoArray
@@ -359,7 +418,7 @@ function getOrderInfo(orderId, callback) {
     })
 
     // Get promises results
-    Promise.all([orderInfoPromise, orderDetailsInfoPromise]).then(function(results) {
+    Promise.all([orderInfoPromise, orderDetailInfoPromise]).then(function(results) {
 
         // Create order object
         var order = {

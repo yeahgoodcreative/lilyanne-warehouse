@@ -44,6 +44,26 @@
                     }
                 })
             })
+
+            // If keypressed on item input
+            $('input[name="sales-order-number"]').keypress(function(event) {
+                // Get keycode from event
+                var keycode = (event.keyCode ? event.keyCode : event.which)
+
+                // If keycode is the enter key
+                if (keycode == '13') {
+                    $.ajax({
+                        type: 'POST',
+                        url: '/scanner/sales-order-picking2',
+                        data: {"sales-order-number": $('input[name="sales-order-number"]').val()},
+                        success: function(data, status, xhr) {
+                            document.open()
+                            document.write(xhr.responseText)
+                            document.close()
+                        }
+                    })
+                }
+            })
         </script>
     </body>
 </html>

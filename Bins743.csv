@@ -1,0 +1,1254 @@
+Bin Number,Location,Memo,Items,Is Default Receiving Bin,Is Default Manufacturing Receipt Bin,Do Not Allow Mixed Lots
+K2-4G,Main Warehouse,Section K Bay 2 - Row 4 Column G,View,No,No,No
+K2-4K,Main Warehouse,Section K Bay 2 - Row 4 Column K,View,No,No,No
+PR-A3,Main Warehouse,Pallet Racking - Section A Row 3,View,No,No,No
+PR-C1,Main Warehouse,Pallet Racking - Section C Row 1,View,No,No,No
+PR-D4,Main Warehouse,Pallet Racking - Section D Row 4,View,No,No,No
+PR-E3,Main Warehouse,Pallet Racking - Section E Row 3,View,No,No,No
+Dispatch,Main Warehouse,Bin used for dispatch inventory (Marketing Material's etc.),View,No,No,No
+E1-2G,Main Warehouse,Section E Bay 1 - Row 2 Column G,View,No,No,No
+E1-2I,Main Warehouse,Section E Bay 1 - Row 2 Column I,View,No,No,No
+E1-2K,Main Warehouse,Section E Bay 1 - Row 2 Column K,View,No,No,No
+E1-3B,Main Warehouse,Section E Bay 1 - Row 3 Column B,View,No,No,No
+E1-3D,Main Warehouse,Section E Bay 1 - Row 3 Column D,View,No,No,No
+E1-3F,Main Warehouse,Section E Bay 1 - Row 3 Column F,View,No,No,No
+E1-3H,Main Warehouse,Section E Bay 1 - Row 3 Column H,View,No,No,No
+E1-3J,Main Warehouse,Section E Bay 1 - Row 3 Column J,View,No,No,No
+E1-4A,Main Warehouse,Section E Bay 1 - Row 4 Column A,View,No,No,No
+E1-4C,Main Warehouse,Section E Bay 1 - Row 4 Column C,View,No,No,No
+E1-4E,Main Warehouse,Section E Bay 1 - Row 4 Column E,View,No,No,No
+E2-1B,Main Warehouse,Section E Bay 2 - Row 1 Column B,View,No,No,No
+E2-1D,Main Warehouse,Section E Bay 2 - Row 1 Column D,View,No,No,No
+E2-1F,Main Warehouse,Section E Bay 2 - Row 1 Column F,View,No,No,No
+E2-1H,Main Warehouse,Section E Bay 2 - Row 1 Column H,View,No,No,No
+E2-1J,Main Warehouse,Section E Bay 2 - Row 1 Column J,View,No,No,No
+E2-2A,Main Warehouse,Section E Bay 2 - Row 2 Column A,View,No,No,No
+E2-2C,Main Warehouse,Section E Bay 2 - Row 2 Column C,View,No,No,No
+E2-2E,Main Warehouse,Section E Bay 2 - Row 2 Column E,View,No,No,No
+E2-2G,Main Warehouse,Section E Bay 2 - Row 2 Column G,View,No,No,No
+E2-2I,Main Warehouse,Section E Bay 2 - Row 2 Column I,View,No,No,No
+E2-2K,Main Warehouse,Section E Bay 2 - Row 2 Column K,View,No,No,No
+E2-3B,Main Warehouse,Section E Bay 2 - Row 3 Column B,View,No,No,No
+E2-3D,Main Warehouse,Section E Bay 2 - Row 3 Column D,View,No,No,No
+E2-3F,Main Warehouse,Section E Bay 2 - Row 3 Column F,View,No,No,No
+E2-3H,Main Warehouse,Section E Bay 2 - Row 3 Column H,View,No,No,No
+E2-3J,Main Warehouse,Section E Bay 2 - Row 3 Column J,View,No,No,No
+E2-4A,Main Warehouse,Section E Bay 2 - Row 4 Column A,View,No,No,No
+E2-4C,Main Warehouse,Section E Bay 2 - Row 4 Column C,View,No,No,No
+E2-4E,Main Warehouse,Section E Bay 2 - Row 4 Column E,View,No,No,No
+F1-1B,Main Warehouse,Section F Bay 1 - Row 1 Column B,View,No,No,No
+F1-1D,Main Warehouse,Section F Bay 1 - Row 1 Column D,View,No,No,No
+F1-1F,Main Warehouse,Section F Bay 1 - Row 1 Column F,View,No,No,No
+F1-1H,Main Warehouse,Section F Bay 1 - Row 1 Column H,View,No,No,No
+F1-1J,Main Warehouse,Section F Bay 1 - Row 1 Column J,View,No,No,No
+F1-2A,Main Warehouse,Section F Bay 1 - Row 2 Column A,View,No,No,No
+F1-2C,Main Warehouse,Section F Bay 1 - Row 2 Column C,View,No,No,No
+F1-2E,Main Warehouse,Section F Bay 1 - Row 2 Column E,View,No,No,No
+F1-2G,Main Warehouse,Section F Bay 1 - Row 2 Column G,View,No,No,No
+F1-2I,Main Warehouse,Section F Bay 1 - Row 2 Column I,View,No,No,No
+F1-2K,Main Warehouse,Section F Bay 1 - Row 2 Column K,View,No,No,No
+F1-3B,Main Warehouse,Section F Bay 1 - Row 3 Column B,View,No,No,No
+F1-3D,Main Warehouse,Section F Bay 1 - Row 3 Column D,View,No,No,No
+F1-3F,Main Warehouse,Section F Bay 1 - Row 3 Column F,View,No,No,No
+F1-3H,Main Warehouse,Section F Bay 1 - Row 3 Column H,View,No,No,No
+F1-3J,Main Warehouse,Section F Bay 1 - Row 3 Column J,View,No,No,No
+F1-4A,Main Warehouse,Section F Bay 1 - Row 4 Column A,View,No,No,No
+F1-4C,Main Warehouse,Section F Bay 1 - Row 4 Column C,View,No,No,No
+F1-4E,Main Warehouse,Section F Bay 1 - Row 4 Column E,View,No,No,No
+F2-1B,Main Warehouse,Section F Bay 2 - Row 1 Column B,View,No,No,No
+F2-1D,Main Warehouse,Section F Bay 2 - Row 1 Column D,View,No,No,No
+F2-1F,Main Warehouse,Section F Bay 2 - Row 1 Column F,View,No,No,No
+F2-1H,Main Warehouse,Section F Bay 2 - Row 1 Column H,View,No,No,No
+F2-1J,Main Warehouse,Section F Bay 2 - Row 1 Column J,View,No,No,No
+F2-2A,Main Warehouse,Section F Bay 2 - Row 2 Column A,View,No,No,No
+F2-2C,Main Warehouse,Section F Bay 2 - Row 2 Column C,View,No,No,No
+F2-2E,Main Warehouse,Section F Bay 2 - Row 2 Column E,View,No,No,No
+F2-2G,Main Warehouse,Section F Bay 2 - Row 2 Column G,View,No,No,No
+F2-2I,Main Warehouse,Section F Bay 2 - Row 2 Column I,View,No,No,No
+F2-2K,Main Warehouse,Section F Bay 2 - Row 2 Column K,View,No,No,No
+F2-3B,Main Warehouse,Section F Bay 2 - Row 3 Column B,View,No,No,No
+F2-3D,Main Warehouse,Section F Bay 2 - Row 3 Column D,View,No,No,No
+F2-3F,Main Warehouse,Section F Bay 2 - Row 3 Column F,View,No,No,No
+F2-3H,Main Warehouse,Section F Bay 2 - Row 3 Column H,View,No,No,No
+F2-3J,Main Warehouse,Section F Bay 2 - Row 3 Column J,View,No,No,No
+F2-4A,Main Warehouse,Section F Bay 2 - Row 4 Column A,View,No,No,No
+F2-4C,Main Warehouse,Section F Bay 2 - Row 4 Column C,View,No,No,No
+F2-4E,Main Warehouse,Section F Bay 2 - Row 4 Column E,View,No,No,No
+G1-1B,Main Warehouse,Section G Bay 1 - Row 1 Column B,View,No,No,No
+G1-1D,Main Warehouse,Section G Bay 1 - Row 1 Column D,View,No,No,No
+G1-1F,Main Warehouse,Section G Bay 1 - Row 1 Column F,View,No,No,No
+G1-1H,Main Warehouse,Section G Bay 1 - Row 1 Column H,View,No,No,No
+G1-1J,Main Warehouse,Section G Bay 1 - Row 1 Column J,View,No,No,No
+G1-2A,Main Warehouse,Section G Bay 1 - Row 2 Column A,View,No,No,No
+G1-2C,Main Warehouse,Section G Bay 1 - Row 2 Column C,View,No,No,No
+G1-2E,Main Warehouse,Section G Bay 1 - Row 2 Column E,View,No,No,No
+G1-2G,Main Warehouse,Section G Bay 1 - Row 2 Column G,View,No,No,No
+G1-2I,Main Warehouse,Section G Bay 1 - Row 2 Column I,View,No,No,No
+G1-2K,Main Warehouse,Section G Bay 1 - Row 2 Column K,View,No,No,No
+G1-3B,Main Warehouse,Section G Bay 1 - Row 3 Column B,View,No,No,No
+G1-3D,Main Warehouse,Section G Bay 1 - Row 3 Column D,View,No,No,No
+G1-3F,Main Warehouse,Section G Bay 1 - Row 3 Column F,View,No,No,No
+G1-3H,Main Warehouse,Section G Bay 1 - Row 3 Column H,View,No,No,No
+G1-3J,Main Warehouse,Section G Bay 1 - Row 3 Column J,View,No,No,No
+G1-4A,Main Warehouse,Section G Bay 1 - Row 4 Column A,View,No,No,No
+G1-4C,Main Warehouse,Section G Bay 1 - Row 4 Column C,View,No,No,No
+G1-4E,Main Warehouse,Section G Bay 1 - Row 4 Column E,View,No,No,No
+G2-1B,Main Warehouse,Section G Bay 2 - Row 1 Column B,View,No,No,No
+G2-1D,Main Warehouse,Section G Bay 2 - Row 1 Column D,View,No,No,No
+G2-1F,Main Warehouse,Section G Bay 2 - Row 1 Column F,View,No,No,No
+G2-1H,Main Warehouse,Section G Bay 2 - Row 1 Column H,View,No,No,No
+G2-1J,Main Warehouse,Section G Bay 2 - Row 1 Column J,View,No,No,No
+G2-2A,Main Warehouse,Section G Bay 2 - Row 2 Column A,View,No,No,No
+G2-2C,Main Warehouse,Section G Bay 2 - Row 2 Column C,View,No,No,No
+G2-2E,Main Warehouse,Section G Bay 2 - Row 2 Column E,View,No,No,No
+G2-2G,Main Warehouse,Section G Bay 2 - Row 2 Column G,View,No,No,No
+G2-2I,Main Warehouse,Section G Bay 2 - Row 2 Column I,View,No,No,No
+G2-2K,Main Warehouse,Section G Bay 2 - Row 2 Column K,View,No,No,No
+G2-3B,Main Warehouse,Section G Bay 2 - Row 3 Column B,View,No,No,No
+G2-3D,Main Warehouse,Section G Bay 2 - Row 3 Column D,View,No,No,No
+G2-3F,Main Warehouse,Section G Bay 2 - Row 3 Column F,View,No,No,No
+G2-3H,Main Warehouse,Section G Bay 2 - Row 3 Column H,View,No,No,No
+G2-3J,Main Warehouse,Section G Bay 2 - Row 3 Column J,View,No,No,No
+G2-4A,Main Warehouse,Section G Bay 2 - Row 4 Column A,View,No,No,No
+G2-4C,Main Warehouse,Section G Bay 2 - Row 4 Column C,View,No,No,No
+G2-4E,Main Warehouse,Section G Bay 2 - Row 4 Column E,View,No,No,No
+H1-1B,Main Warehouse,Section H Bay 1 - Row 1 Column B,View,No,No,No
+H1-1D,Main Warehouse,Section H Bay 1 - Row 1 Column D,View,No,No,No
+Picked-1-Old,Main Warehouse,Old Picked-1,View,No,No,No
+Picked1,Main Warehouse,,View,No,No,No
+A2-4H,Main Warehouse,Section A Bay 2 - Row 4 Column H,View,No,No,No
+A2-4J,Main Warehouse,Section A Bay 2 - Row 4 Column J,View,No,No,No
+B2-4F,Main Warehouse,Section B Bay 2 - Row 4 Column F,View,No,No,No
+B2-4I,Main Warehouse,Section B Bay 2 - Row 4 Column I,View,No,No,No
+C1-4G,Main Warehouse,Section C Bay 1 - Row 4 Column G,View,No,No,No
+C1-4J,Main Warehouse,Section C Bay 1 - Row 4 Column J,View,No,No,No
+Picked-1-20-Broken,Main Warehouse,,View,No,No,No
+CR-B1,Main Warehouse,Cool Room - Section B Row 1,View,No,No,No
+CR-A1,Main Warehouse,Cool Room - Section A Row 1,View,No,No,No
+CR-A3,Main Warehouse,Cool Room - Section A Row 3,View,No,No,No
+CR-B3,Main Warehouse,Cool Room - Section B Row 3,View,No,No,No
+CR-C1,Main Warehouse,Cool Room - Section C Row 1,View,No,No,No
+CR-C3,Main Warehouse,Cool Room - Section C Row 3,View,No,No,No
+CR-D1,Main Warehouse,Cool Room - Section D Row 1,View,No,No,No
+CR-D3,Main Warehouse,Cool Room - Section D Row 3,View,No,No,No
+CR-E1,Main Warehouse,Cool Room - Section E Row 1,View,No,No,No
+CR-E3,Main Warehouse,Cool Room - Section E Row 3,View,No,No,No
+CR-F1,Main Warehouse,Cool Room - Section F Row 1,View,No,No,No
+CR-F3,Main Warehouse,Cool Room - Section F Row 3,View,No,No,No
+CR-G1,Main Warehouse,Cool Room - Section G Row 1,View,No,No,No
+CR-G3,Main Warehouse,Cool Room - Section G Row 3,View,No,No,No
+CR-H1,Main Warehouse,Cool Room - Section H Row 1,View,No,No,No
+CR-H3,Main Warehouse,Cool Room - Section H Row 3,View,No,No,No
+CR-I1,Main Warehouse,Cool Room - Section I Row 1,View,No,No,No
+CR-I3,Main Warehouse,Cool Room - Section I Row 3,View,No,No,No
+CR-J1,Main Warehouse,Cool Room - Section J Row 1,View,No,No,No
+CR-J3,Main Warehouse,Cool Room - Section J Row 3,View,No,No,No
+A2-4F,Main Warehouse,Section A Bay 2 - Row 4 Column F,View,No,No,No
+A2-4I,Main Warehouse,Section A Bay 2 - Row 4 Column I,View,No,No,No
+B1-4G,Main Warehouse,Section B Bay 1 - Row 4 Column G,View,No,No,No
+B1-4J,Main Warehouse,Section B Bay 1 - Row 4 Column J,View,No,No,No
+C1-4I,Main Warehouse,Section C Bay 1 - Row 4 Column I,View,No,No,No
+Picked-1-862141,Main Warehouse,,View,No,No,No
+Picked-1-35962,Main Warehouse,,View,No,No,No
+J2-3A,Main Warehouse,Section J Bay 2 - Row 3 Column A,View,No,No,No
+J2-3C,Main Warehouse,Section J Bay 2 - Row 3 Column C,View,No,No,No
+J2-3E,Main Warehouse,Section J Bay 2 - Row 3 Column E,View,No,No,No
+J2-3G,Main Warehouse,Section J Bay 2 - Row 3 Column G,View,No,No,No
+J2-3I,Main Warehouse,Section J Bay 2 - Row 3 Column I,View,No,No,No
+J2-3K,Main Warehouse,Section J Bay 2 - Row 3 Column K,View,No,No,No
+J2-4B,Main Warehouse,Section J Bay 2 - Row 4 Column B,View,No,No,No
+J2-4D,Main Warehouse,Section J Bay 2 - Row 4 Column D,View,No,No,No
+K1-1A,Main Warehouse,Section K Bay 1 - Row 1 Column A,View,No,No,No
+K1-1C,Main Warehouse,Section K Bay 1 - Row 1 Column C,View,No,No,No
+K1-1E,Main Warehouse,Section K Bay 1 - Row 1 Column E,View,No,No,No
+K1-1G,Main Warehouse,Section K Bay 1 - Row 1 Column G,View,No,No,No
+K1-1I,Main Warehouse,Section K Bay 1 - Row 1 Column I,View,No,No,No
+K1-1K,Main Warehouse,Section K Bay 1 - Row 1 Column K,View,No,No,No
+K1-2B,Main Warehouse,Section K Bay 1 - Row 2 Column B,View,No,No,No
+K1-2D,Main Warehouse,Section K Bay 1 - Row 2 Column D,View,No,No,No
+K1-2F,Main Warehouse,Section K Bay 1 - Row 2 Column F,View,No,No,No
+K1-2H,Main Warehouse,Section K Bay 1 - Row 2 Column H,View,No,No,No
+K1-2J,Main Warehouse,Section K Bay 1 - Row 2 Column J,View,No,No,No
+K1-3A,Main Warehouse,Section K Bay 1 - Row 3 Column A,View,No,No,No
+K1-3C,Main Warehouse,Section K Bay 1 - Row 3 Column C,View,No,No,No
+K1-3E,Main Warehouse,Section K Bay 1 - Row 3 Column E,View,No,No,No
+K1-3G,Main Warehouse,Section K Bay 1 - Row 3 Column G,View,No,No,No
+K1-3I,Main Warehouse,Section K Bay 1 - Row 3 Column I,View,No,No,No
+K1-3K,Main Warehouse,Section K Bay 1 - Row 3 Column K,View,No,No,No
+K1-4B,Main Warehouse,Section K Bay 1 - Row 4 Column B,View,No,No,No
+K1-4D,Main Warehouse,Section K Bay 1 - Row 4 Column D,View,No,No,No
+K2-1A,Main Warehouse,Section K Bay 2 - Row 1 Column A,View,No,No,No
+K2-1C,Main Warehouse,Section K Bay 2 - Row 1 Column C,View,No,No,No
+K2-1E,Main Warehouse,Section K Bay 2 - Row 1 Column E,View,No,No,No
+K2-1G,Main Warehouse,Section K Bay 2 - Row 1 Column G,View,No,No,No
+K2-1I,Main Warehouse,Section K Bay 2 - Row 1 Column I,View,No,No,No
+K2-1K,Main Warehouse,Section K Bay 2 - Row 1 Column K,View,No,No,No
+K2-2B,Main Warehouse,Section K Bay 2 - Row 2 Column B,View,No,No,No
+K2-2D,Main Warehouse,Section K Bay 2 - Row 2 Column D,View,No,No,No
+K2-2F,Main Warehouse,Section K Bay 2 - Row 2 Column F,View,No,No,No
+K2-2H,Main Warehouse,Section K Bay 2 - Row 2 Column H,View,No,No,No
+K2-2J,Main Warehouse,Section K Bay 2 - Row 2 Column J,View,No,No,No
+K2-3A,Main Warehouse,Section K Bay 2 - Row 3 Column A,View,No,No,No
+K2-3C,Main Warehouse,Section K Bay 2 - Row 3 Column C,View,No,No,No
+K2-3E,Main Warehouse,Section K Bay 2 - Row 3 Column E,View,No,No,No
+K2-3G,Main Warehouse,Section K Bay 2 - Row 3 Column G,View,No,No,No
+K2-3I,Main Warehouse,Section K Bay 2 - Row 3 Column I,View,No,No,No
+K2-3K,Main Warehouse,Section K Bay 2 - Row 3 Column K,View,No,No,No
+K2-4B,Main Warehouse,Section K Bay 2 - Row 4 Column B,View,No,No,No
+K2-4D,Main Warehouse,Section K Bay 2 - Row 4 Column D,View,No,No,No
+A1-1B,Main Warehouse,Section A Bay 1 - Row 1 Column B,View,No,No,No
+A1-1D,Main Warehouse,Section A Bay 1 - Row 1 Column D,View,No,No,No
+A1-1F,Main Warehouse,Section A Bay 1 - Row 1 Column F,View,No,No,No
+A1-1H,Main Warehouse,Section A Bay 1 - Row 1 Column H,View,No,No,No
+A1-1J,Main Warehouse,Section A Bay 1 - Row 1 Column J,View,No,No,No
+A1-2A,Main Warehouse,Section A Bay 1 - Row 2 Column A,View,No,No,No
+A1-2C,Main Warehouse,Section A Bay 1 - Row 2 Column C,View,No,No,No
+A1-2E,Main Warehouse,Section A Bay 1 - Row 2 Column E,View,No,No,No
+A1-2G,Main Warehouse,Section A Bay 1 - Row 2 Column G,View,No,No,No
+A1-2I,Main Warehouse,Section A Bay 1 - Row 2 Column I,View,No,No,No
+A1-2K,Main Warehouse,Section A Bay 1 - Row 2 Column K,View,No,No,No
+A1-3B,Main Warehouse,Section A Bay 1 - Row 3 Column B,View,No,No,No
+A1-3D,Main Warehouse,Section A Bay 1 - Row 3 Column D,View,No,No,No
+A1-3F,Main Warehouse,Section A Bay 1 - Row 3 Column F,View,No,No,No
+A1-3H,Main Warehouse,Section A Bay 1 - Row 3 Column H,View,No,No,No
+A1-3J,Main Warehouse,Section A Bay 1 - Row 3 Column J,View,No,No,No
+A1-4A,Main Warehouse,Section A Bay 1 - Row 4 Column A,View,No,No,No
+A1-4C,Main Warehouse,Section A Bay 1 - Row 4 Column C,View,No,No,No
+A1-4E,Main Warehouse,Section A Bay 1 - Row 4 Column E,View,No,No,No
+A2-1B,Main Warehouse,Section A Bay 2 - Row 1 Column B,View,No,No,No
+A2-1D,Main Warehouse,Section A Bay 2 - Row 1 Column D,View,No,No,No
+A2-1F,Main Warehouse,Section A Bay 2 - Row 1 Column F,View,No,No,No
+A2-1H,Main Warehouse,Section A Bay 2 - Row 1 Column H,View,No,No,No
+A2-1J,Main Warehouse,Section A Bay 2 - Row 1 Column J,View,No,No,No
+A2-2A,Main Warehouse,Section A Bay 2 - Row 2 Column A,View,No,No,No
+A2-2C,Main Warehouse,Section A Bay 2 - Row 2 Column C,View,No,No,No
+A2-2E,Main Warehouse,Section A Bay 2 - Row 2 Column E,View,No,No,No
+A2-2G,Main Warehouse,Section A Bay 2 - Row 2 Column G,View,No,No,No
+A2-2I,Main Warehouse,Section A Bay 2 - Row 2 Column I,View,No,No,No
+A2-2K,Main Warehouse,Section A Bay 2 - Row 2 Column K,View,No,No,No
+A2-3B,Main Warehouse,Section A Bay 2 - Row 3 Column B,View,No,No,No
+A2-3D,Main Warehouse,Section A Bay 2 - Row 3 Column D,View,No,No,No
+A2-3F,Main Warehouse,Section A Bay 2 - Row 3 Column F,View,No,No,No
+A2-3H,Main Warehouse,Section A Bay 2 - Row 3 Column H,View,No,No,No
+A2-3J,Main Warehouse,Section A Bay 2 - Row 3 Column J,View,No,No,No
+A2-4A,Main Warehouse,Section A Bay 2 - Row 4 Column A,View,No,No,No
+A2-4C,Main Warehouse,Section A Bay 2 - Row 4 Column C,View,No,No,No
+A2-4E,Main Warehouse,Section A Bay 2 - Row 4 Column E,View,No,No,No
+B1-1B,Main Warehouse,Section B Bay 1 - Row 1 Column B,View,No,No,No
+B1-1D,Main Warehouse,Section B Bay 1 - Row 1 Column D,View,No,No,No
+B1-1F,Main Warehouse,Section B Bay 1 - Row 1 Column F,View,No,No,No
+B1-1H,Main Warehouse,Section B Bay 1 - Row 1 Column H,View,No,No,No
+B1-1J,Main Warehouse,Section B Bay 1 - Row 1 Column J,View,No,No,No
+B1-2A,Main Warehouse,Section B Bay 1 - Row 2 Column A,View,No,No,No
+B1-2C,Main Warehouse,Section B Bay 1 - Row 2 Column C,View,No,No,No
+B1-2E,Main Warehouse,Section B Bay 1 - Row 2 Column E,View,No,No,No
+B1-2G,Main Warehouse,Section B Bay 1 - Row 2 Column G,View,No,No,No
+B1-2I,Main Warehouse,Section B Bay 1 - Row 2 Column I,View,No,No,No
+B1-2K,Main Warehouse,Section B Bay 1 - Row 2 Column K,View,No,No,No
+B1-3B,Main Warehouse,Section B Bay 1 - Row 3 Column B,View,No,No,No
+B1-3D,Main Warehouse,Section B Bay 1 - Row 3 Column D,View,No,No,No
+B1-3F,Main Warehouse,Section B Bay 1 - Row 3 Column F,View,No,No,No
+B1-3H,Main Warehouse,Section B Bay 1 - Row 3 Column H,View,No,No,No
+B1-3J,Main Warehouse,Section B Bay 1 - Row 3 Column J,View,No,No,No
+B1-4A,Main Warehouse,Section B Bay 1 - Row 4 Column A,View,No,No,No
+B1-4C,Main Warehouse,Section B Bay 1 - Row 4 Column C,View,No,No,No
+B1-4E,Main Warehouse,Section B Bay 1 - Row 4 Column E,View,No,No,No
+B2-1B,Main Warehouse,Section B Bay 2 - Row 1 Column B,View,No,No,No
+B2-1D,Main Warehouse,Section B Bay 2 - Row 1 Column D,View,No,No,No
+B2-1F,Main Warehouse,Section B Bay 2 - Row 1 Column F,View,No,No,No
+B2-1H,Main Warehouse,Section B Bay 2 - Row 1 Column H,View,No,No,No
+B2-1J,Main Warehouse,Section B Bay 2 - Row 1 Column J,View,No,No,No
+B2-2A,Main Warehouse,Section B Bay 2 - Row 2 Column A,View,No,No,No
+B2-2C,Main Warehouse,Section B Bay 2 - Row 2 Column C,View,No,No,No
+B2-2E,Main Warehouse,Section B Bay 2 - Row 2 Column E,View,No,No,No
+B2-2G,Main Warehouse,Section B Bay 2 - Row 2 Column G,View,No,No,No
+B2-2I,Main Warehouse,Section B Bay 2 - Row 2 Column I,View,No,No,No
+B2-2K,Main Warehouse,Section B Bay 2 - Row 2 Column K,View,No,No,No
+B2-3B,Main Warehouse,Section B Bay 2 - Row 3 Column B,View,No,No,No
+B2-3D,Main Warehouse,Section B Bay 2 - Row 3 Column D,View,No,No,No
+B2-3F,Main Warehouse,Section B Bay 2 - Row 3 Column F,View,No,No,No
+B2-3H,Main Warehouse,Section B Bay 2 - Row 3 Column H,View,No,No,No
+B2-3J,Main Warehouse,Section B Bay 2 - Row 3 Column J,View,No,No,No
+B2-4A,Main Warehouse,Section B Bay 2 - Row 4 Column A,View,No,No,No
+B2-4C,Main Warehouse,Section B Bay 2 - Row 4 Column C,View,No,No,No
+B2-4E,Main Warehouse,Section B Bay 2 - Row 4 Column E,View,No,No,No
+C1-1B,Main Warehouse,Section C Bay 1 - Row 1 Column B,View,No,No,No
+C1-1D,Main Warehouse,Section C Bay 1 - Row 1 Column D,View,No,No,No
+C1-1F,Main Warehouse,Section C Bay 1 - Row 1 Column F,View,No,No,No
+C1-1H,Main Warehouse,Section C Bay 1 - Row 1 Column H,View,No,No,No
+VW-A1-4H,Main Warehouse,POS Section A Bay 1 - Row 4 Column H,View,No,No,No
+VW-A1-4J,Main Warehouse,POS Section A Bay 1 - Row 4 Column J,View,No,No,No
+VW-A2-1A,Main Warehouse,POS Section A Bay 2 - Row 1 Column A,View,No,No,No
+VW-A2-1C,Main Warehouse,POS Section A Bay 2 - Row 1 Column C,View,No,No,No
+VW-A2-1E,Main Warehouse,POS Section A Bay 2 - Row 1 Column E,View,No,No,No
+VW-A2-1G,Main Warehouse,POS Section A Bay 2 - Row 1 Column G,View,No,No,No
+VW-A2-1I,Main Warehouse,POS Section A Bay 2 - Row 1 Column I,View,No,No,No
+VW-A2-1K,Main Warehouse,POS Section A Bay 2 - Row 1 Column K,View,No,No,No
+VW-A2-2B,Main Warehouse,POS Section A Bay 2 - Row 2 Column B,View,No,No,No
+VW-A2-2D,Main Warehouse,POS Section A Bay 2 - Row 2 Column D,View,No,No,No
+VW-A2-2F,Main Warehouse,POS Section A Bay 2 - Row 2 Column F,View,No,No,No
+VW-A2-2H,Main Warehouse,POS Section A Bay 2 - Row 2 Column H,View,No,No,No
+VW-A2-2J,Main Warehouse,POS Section A Bay 2 - Row 2 Column J,View,No,No,No
+VW-A2-3A,Main Warehouse,POS Section A Bay 2 - Row 3 Column A,View,No,No,No
+VW-A2-3C,Main Warehouse,POS Section A Bay 2 - Row 3 Column C,View,No,No,No
+VW-A2-3E,Main Warehouse,POS Section A Bay 2 - Row 3 Column E,View,No,No,No
+VW-A2-3G,Main Warehouse,POS Section A Bay 2 - Row 3 Column G,View,No,No,No
+VW-A2-3I,Main Warehouse,POS Section A Bay 2 - Row 3 Column I,View,No,No,No
+VW-A2-3K,Main Warehouse,POS Section A Bay 2 - Row 3 Column K,View,No,No,No
+VW-A2-4B,Main Warehouse,POS Section A Bay 2 - Row 4 Column B,View,No,No,No
+VW-A2-4D,Main Warehouse,POS Section A Bay 2 - Row 4 Column D,View,No,No,No
+VW-A2-4F,Main Warehouse,POS Section A Bay 2 - Row 4 Column F,View,No,No,No
+VW-A2-4H,Main Warehouse,POS Section A Bay 2 - Row 4 Column H,View,No,No,No
+VW-A2-4J,Main Warehouse,POS Section A Bay 2 - Row 4 Column J,View,No,No,No
+VW-B1-2A,Main Warehouse,POS Section,View,No,No,No
+VW-B1-4A,Main Warehouse,POS Section,View,No,No,No
+VW-C1-1B,Main Warehouse,POS Section C Bay 1 - Row 1 Column B,View,No,No,No
+VW-P1,Main Warehouse,POS - Pallet Space 1,View,No,No,No
+VW-P3,Main Warehouse,POS - Pallet Space 3,View,No,No,No
+E1-1K,Main Warehouse,Section E Bay 1 - Row 1 Column K,View,No,No,No
+E1-2B,Main Warehouse,Section E Bay 1 - Row 2 Column B,View,No,No,No
+E1-2D,Main Warehouse,Section E Bay 1 - Row 2 Column D,View,No,No,No
+E1-2F,Main Warehouse,Section E Bay 1 - Row 2 Column F,View,No,No,No
+E1-2H,Main Warehouse,Section E Bay 1 - Row 2 Column H,View,No,No,No
+E1-2J,Main Warehouse,Section E Bay 1 - Row 2 Column J,View,No,No,No
+E1-3A,Main Warehouse,Section E Bay 1 - Row 3 Column A,View,No,No,No
+E1-3C,Main Warehouse,Section E Bay 1 - Row 3 Column C,View,No,No,No
+E1-3E,Main Warehouse,Section E Bay 1 - Row 3 Column E,View,No,No,No
+E1-3G,Main Warehouse,Section E Bay 1 - Row 3 Column G,View,No,No,No
+E1-3I,Main Warehouse,Section E Bay 1 - Row 3 Column I,View,No,No,No
+E1-3K,Main Warehouse,Section E Bay 1 - Row 3 Column K,View,No,No,No
+E1-4B,Main Warehouse,Section E Bay 1 - Row 4 Column B,View,No,No,No
+E1-4D,Main Warehouse,Section E Bay 1 - Row 4 Column D,View,No,No,No
+E2-1A,Main Warehouse,Section E Bay 2 - Row 1 Column A,View,No,No,No
+E2-1C,Main Warehouse,Section E Bay 2 - Row 1 Column C,View,No,No,No
+E2-1E,Main Warehouse,Section E Bay 2 - Row 1 Column E,View,No,No,No
+E2-1G,Main Warehouse,Section E Bay 2 - Row 1 Column G,View,No,No,No
+E2-1I,Main Warehouse,Section E Bay 2 - Row 1 Column I,View,No,No,No
+E2-1K,Main Warehouse,Section E Bay 2 - Row 1 Column K,View,No,No,No
+E2-2B,Main Warehouse,Section E Bay 2 - Row 2 Column B,View,No,No,No
+E2-2D,Main Warehouse,Section E Bay 2 - Row 2 Column D,View,No,No,No
+E2-2F,Main Warehouse,Section E Bay 2 - Row 2 Column F,View,No,No,No
+E2-2H,Main Warehouse,Section E Bay 2 - Row 2 Column H,View,No,No,No
+E2-2J,Main Warehouse,Section E Bay 2 - Row 2 Column J,View,No,No,No
+E2-3A,Main Warehouse,Section E Bay 2 - Row 3 Column A,View,No,No,No
+E2-3C,Main Warehouse,Section E Bay 2 - Row 3 Column C,View,No,No,No
+E2-3E,Main Warehouse,Section E Bay 2 - Row 3 Column E,View,No,No,No
+E2-3G,Main Warehouse,Section E Bay 2 - Row 3 Column G,View,No,No,No
+E2-3I,Main Warehouse,Section E Bay 2 - Row 3 Column I,View,No,No,No
+E2-3K,Main Warehouse,Section E Bay 2 - Row 3 Column K,View,No,No,No
+E2-4B,Main Warehouse,Section E Bay 2 - Row 4 Column B,View,No,No,No
+E2-4D,Main Warehouse,Section E Bay 2 - Row 4 Column D,View,No,No,No
+F1-1A,Main Warehouse,Section F Bay 1 - Row 1 Column A,View,No,No,No
+F1-1C,Main Warehouse,Section F Bay 1 - Row 1 Column C,View,No,No,No
+F1-1E,Main Warehouse,Section F Bay 1 - Row 1 Column E,View,No,No,No
+F1-1G,Main Warehouse,Section F Bay 1 - Row 1 Column G,View,No,No,No
+F1-1I,Main Warehouse,Section F Bay 1 - Row 1 Column I,View,No,No,No
+F1-1K,Main Warehouse,Section F Bay 1 - Row 1 Column K,View,No,No,No
+F1-2B,Main Warehouse,Section F Bay 1 - Row 2 Column B,View,No,No,No
+F1-2D,Main Warehouse,Section F Bay 1 - Row 2 Column D,View,No,No,No
+F1-2F,Main Warehouse,Section F Bay 1 - Row 2 Column F,View,No,No,No
+F1-2H,Main Warehouse,Section F Bay 1 - Row 2 Column H,View,No,No,No
+F1-2J,Main Warehouse,Section F Bay 1 - Row 2 Column J,View,No,No,No
+F1-3A,Main Warehouse,Section F Bay 1 - Row 3 Column A,View,No,No,No
+F1-3C,Main Warehouse,Section F Bay 1 - Row 3 Column C,View,No,No,No
+F1-3E,Main Warehouse,Section F Bay 1 - Row 3 Column E,View,No,No,No
+F1-3G,Main Warehouse,Section F Bay 1 - Row 3 Column G,View,No,No,No
+F1-3I,Main Warehouse,Section F Bay 1 - Row 3 Column I,View,No,No,No
+F1-3K,Main Warehouse,Section F Bay 1 - Row 3 Column K,View,No,No,No
+F1-4B,Main Warehouse,Section F Bay 1 - Row 4 Column B,View,No,No,No
+F1-4D,Main Warehouse,Section F Bay 1 - Row 4 Column D,View,No,No,No
+F2-1A,Main Warehouse,Section F Bay 2 - Row 1 Column A,View,No,No,No
+F2-1C,Main Warehouse,Section F Bay 2 - Row 1 Column C,View,No,No,No
+F2-1E,Main Warehouse,Section F Bay 2 - Row 1 Column E,View,No,No,No
+A1-1A,Main Warehouse,Section A Bay 1 - Row 1 Column A,View,No,No,No
+A1-1C,Main Warehouse,Section A Bay 1 - Row 1 Column C,View,No,No,No
+A1-1E,Main Warehouse,Section A Bay 1 - Row 1 Column E,View,No,No,No
+A1-1G,Main Warehouse,Section A Bay 1 - Row 1 Column G,View,No,No,No
+A1-1I,Main Warehouse,Section A Bay 1 - Row 1 Column I,View,No,No,No
+Test-A1-1K,Main Warehouse,Section A Bay 1 - Row 1 Column K,View,No,No,No
+A1-2B,Main Warehouse,Section A Bay 1 - Row 2 Column B,View,No,No,No
+A1-2D,Main Warehouse,Section A Bay 1 - Row 2 Column D,View,No,No,No
+A1-2F,Main Warehouse,Section A Bay 1 - Row 2 Column F,View,No,No,No
+A1-2H,Main Warehouse,Section A Bay 1 - Row 2 Column H,View,No,No,No
+A1-2J,Main Warehouse,Section A Bay 1 - Row 2 Column J,View,No,No,No
+A1-3A,Main Warehouse,Section A Bay 1 - Row 3 Column A,View,No,No,No
+A1-3C,Main Warehouse,Section A Bay 1 - Row 3 Column C,View,No,No,No
+A1-3E,Main Warehouse,Section A Bay 1 - Row 3 Column E,View,No,No,No
+A1-3G,Main Warehouse,Section A Bay 1 - Row 3 Column G,View,No,No,No
+A1-3I,Main Warehouse,Section A Bay 1 - Row 3 Column I,View,No,No,No
+A1-3K,Main Warehouse,Section A Bay 1 - Row 3 Column K,View,No,No,No
+A1-4B,Main Warehouse,Section A Bay 1 - Row 4 Column B,View,No,No,No
+A1-4D,Main Warehouse,Section A Bay 1 - Row 4 Column D,View,No,No,No
+A2-1A,Main Warehouse,Section A Bay 2 - Row 1 Column A,View,No,No,No
+A2-1C,Main Warehouse,Section A Bay 2 - Row 1 Column C,View,No,No,No
+A2-1E,Main Warehouse,Section A Bay 2 - Row 1 Column E,View,No,No,No
+A2-1G,Main Warehouse,Section A Bay 2 - Row 1 Column G,View,No,No,No
+A2-1I,Main Warehouse,Section A Bay 2 - Row 1 Column I,View,No,No,No
+A2-1K,Main Warehouse,Section A Bay 2 - Row 1 Column K,View,No,No,No
+A2-2B,Main Warehouse,Section A Bay 2 - Row 2 Column B,View,No,No,No
+A2-2D,Main Warehouse,Section A Bay 2 - Row 2 Column D,View,No,No,No
+A2-2F,Main Warehouse,Section A Bay 2 - Row 2 Column F,View,No,No,No
+A2-2H,Main Warehouse,Section A Bay 2 - Row 2 Column H,View,No,No,No
+A2-2J,Main Warehouse,Section A Bay 2 - Row 2 Column J,View,No,No,No
+A2-3A,Main Warehouse,Section A Bay 2 - Row 3 Column A,View,No,No,No
+A2-3C,Main Warehouse,Section A Bay 2 - Row 3 Column C,View,No,No,No
+A2-3E,Main Warehouse,Section A Bay 2 - Row 3 Column E,View,No,No,No
+A2-3G,Main Warehouse,Section A Bay 2 - Row 3 Column G,View,No,No,No
+A2-3I,Main Warehouse,Section A Bay 2 - Row 3 Column I,View,No,No,No
+A2-3K,Main Warehouse,Section A Bay 2 - Row 3 Column K,View,No,No,No
+A2-4B,Main Warehouse,Section A Bay 2 - Row 4 Column B,View,No,No,No
+A2-4D,Main Warehouse,Section A Bay 2 - Row 4 Column D,View,No,No,No
+B1-1A,Main Warehouse,Section B Bay 1 - Row 1 Column A,View,No,No,No
+B1-1C,Main Warehouse,Section B Bay 1 - Row 1 Column C,View,No,No,No
+B1-1E,Main Warehouse,Section B Bay 1 - Row 1 Column E,View,No,No,No
+B1-1G,Main Warehouse,Section B Bay 1 - Row 1 Column G,View,No,No,No
+B1-1I,Main Warehouse,Section B Bay 1 - Row 1 Column I,View,No,No,No
+B1-1K,Main Warehouse,Section B Bay 1 - Row 1 Column K,View,No,No,No
+B1-2B,Main Warehouse,Section B Bay 1 - Row 2 Column B,View,No,No,No
+B1-2D,Main Warehouse,Section B Bay 1 - Row 2 Column D,View,No,No,No
+B1-2F,Main Warehouse,Section B Bay 1 - Row 2 Column F,View,No,No,No
+B1-2H,Main Warehouse,Section B Bay 1 - Row 2 Column H,View,No,No,No
+B1-2J,Main Warehouse,Section B Bay 1 - Row 2 Column J,View,No,No,No
+Picked-1-1139184,Main Warehouse,,View,No,No,No
+H1-1F,Main Warehouse,Section H Bay 1 - Row 1 Column F,View,No,No,No
+H1-1H,Main Warehouse,Section H Bay 1 - Row 1 Column H,View,No,No,No
+H1-1J,Main Warehouse,Section H Bay 1 - Row 1 Column J,View,No,No,No
+H1-2A,Main Warehouse,Section H Bay 1 - Row 2 Column A,View,No,No,No
+H1-2C,Main Warehouse,Section H Bay 1 - Row 2 Column C,View,No,No,No
+H1-2E,Main Warehouse,Section H Bay 1 - Row 2 Column E,View,No,No,No
+H1-2G,Main Warehouse,Section H Bay 1 - Row 2 Column G,View,No,No,No
+H1-2I,Main Warehouse,Section H Bay 1 - Row 2 Column I,View,No,No,No
+H1-2K,Main Warehouse,Section H Bay 1 - Row 2 Column K,View,No,No,No
+H1-3B,Main Warehouse,Section H Bay 1 - Row 3 Column B,View,No,No,No
+H1-3D,Main Warehouse,Section H Bay 1 - Row 3 Column D,View,No,No,No
+H1-3F,Main Warehouse,Section H Bay 1 - Row 3 Column F,View,No,No,No
+H1-3H,Main Warehouse,Section H Bay 1 - Row 3 Column H,View,No,No,No
+H1-3J,Main Warehouse,Section H Bay 1 - Row 3 Column J,View,No,No,No
+H1-4A,Main Warehouse,Section H Bay 1 - Row 4 Column A,View,No,No,No
+H1-4C,Main Warehouse,Section H Bay 1 - Row 4 Column C,View,No,No,No
+H1-4E,Main Warehouse,Section H Bay 1 - Row 4 Column E,View,No,No,No
+H2-1B,Main Warehouse,Section H Bay 2 - Row 1 Column B,View,No,No,No
+H2-1D,Main Warehouse,Section H Bay 2 - Row 1 Column D,View,No,No,No
+H2-1F,Main Warehouse,Section H Bay 2 - Row 1 Column F,View,No,No,No
+H2-1H,Main Warehouse,Section H Bay 2 - Row 1 Column H,View,No,No,No
+H2-1J,Main Warehouse,Section H Bay 2 - Row 1 Column J,View,No,No,No
+H2-2A,Main Warehouse,Section H Bay 2 - Row 2 Column A,View,No,No,No
+H2-2C,Main Warehouse,Section H Bay 2 - Row 2 Column C,View,No,No,No
+H2-2E,Main Warehouse,Section H Bay 2 - Row 2 Column E,View,No,No,No
+H2-2G,Main Warehouse,Section H Bay 2 - Row 2 Column G,View,No,No,No
+H2-2I,Main Warehouse,Section H Bay 2 - Row 2 Column I,View,No,No,No
+H2-2K,Main Warehouse,Section H Bay 2 - Row 2 Column K,View,No,No,No
+H2-3B,Main Warehouse,Section H Bay 2 - Row 3 Column B,View,No,No,No
+H2-3D,Main Warehouse,Section H Bay 2 - Row 3 Column D,View,No,No,No
+H2-3F,Main Warehouse,Section H Bay 2 - Row 3 Column F,View,No,No,No
+H2-3H,Main Warehouse,Section H Bay 2 - Row 3 Column H,View,No,No,No
+H2-3J,Main Warehouse,Section H Bay 2 - Row 3 Column J,View,No,No,No
+H2-4A,Main Warehouse,Section H Bay 2 - Row 4 Column A,View,No,No,No
+H2-4C,Main Warehouse,Section H Bay 2 - Row 4 Column C,View,No,No,No
+H2-4E,Main Warehouse,Section H Bay 2 - Row 4 Column E,View,No,No,No
+I1-1B,Main Warehouse,Section I Bay 1 - Row 1 Column B,View,No,No,No
+I1-1D,Main Warehouse,Section I Bay 1 - Row 1 Column D,View,No,No,No
+I1-1F,Main Warehouse,Section I Bay 1 - Row 1 Column F,View,No,No,No
+I1-1H,Main Warehouse,Section I Bay 1 - Row 1 Column H,View,No,No,No
+I1-1J,Main Warehouse,Section I Bay 1 - Row 1 Column J,View,No,No,No
+I1-2A,Main Warehouse,Section I Bay 1 - Row 2 Column A,View,No,No,No
+I1-2C,Main Warehouse,Section I Bay 1 - Row 2 Column C,View,No,No,No
+I1-2E,Main Warehouse,Section I Bay 1 - Row 2 Column E,View,No,No,No
+I1-2G,Main Warehouse,Section I Bay 1 - Row 2 Column G,View,No,No,No
+I1-2I,Main Warehouse,Section I Bay 1 - Row 2 Column I,View,No,No,No
+I1-2K,Main Warehouse,Section I Bay 1 - Row 2 Column K,View,No,No,No
+I1-3B,Main Warehouse,Section I Bay 1 - Row 3 Column B,View,No,No,No
+I1-3D,Main Warehouse,Section I Bay 1 - Row 3 Column D,View,No,No,No
+I1-3F,Main Warehouse,Section I Bay 1 - Row 3 Column F,View,No,No,No
+I1-3H,Main Warehouse,Section I Bay 1 - Row 3 Column H,View,No,No,No
+I1-3J,Main Warehouse,Section I Bay 1 - Row 3 Column J,View,No,No,No
+I1-4A,Main Warehouse,Section I Bay 1 - Row 4 Column A,View,No,No,No
+I1-4C,Main Warehouse,Section I Bay 1 - Row 4 Column C,View,No,No,No
+I1-4E,Main Warehouse,Section I Bay 1 - Row 4 Column E,View,No,No,No
+I2-1B,Main Warehouse,Section I Bay 2 - Row 1 Column B,View,No,No,No
+I2-1D,Main Warehouse,Section I Bay 2 - Row 1 Column D,View,No,No,No
+I2-1F,Main Warehouse,Section I Bay 2 - Row 1 Column F,View,No,No,No
+I2-1H,Main Warehouse,Section I Bay 2 - Row 1 Column H,View,No,No,No
+I2-1J,Main Warehouse,Section I Bay 2 - Row 1 Column J,View,No,No,No
+I2-2A,Main Warehouse,Section I Bay 2 - Row 2 Column A,View,No,No,No
+I2-2C,Main Warehouse,Section I Bay 2 - Row 2 Column C,View,No,No,No
+I2-2E,Main Warehouse,Section I Bay 2 - Row 2 Column E,View,No,No,No
+I2-2G,Main Warehouse,Section I Bay 2 - Row 2 Column G,View,No,No,No
+I2-2I,Main Warehouse,Section I Bay 2 - Row 2 Column I,View,No,No,No
+I2-2K,Main Warehouse,Section I Bay 2 - Row 2 Column K,View,No,No,No
+I2-3B,Main Warehouse,Section I Bay 2 - Row 3 Column B,View,No,No,No
+I2-3D,Main Warehouse,Section I Bay 2 - Row 3 Column D,View,No,No,No
+I2-3F,Main Warehouse,Section I Bay 2 - Row 3 Column F,View,No,No,No
+I2-3H,Main Warehouse,Section I Bay 2 - Row 3 Column H,View,No,No,No
+I2-3J,Main Warehouse,Section I Bay 2 - Row 3 Column J,View,No,No,No
+I2-4A,Main Warehouse,Section I Bay 2 - Row 4 Column A,View,No,No,No
+I2-4C,Main Warehouse,Section I Bay 2 - Row 4 Column C,View,No,No,No
+I2-4E,Main Warehouse,Section I Bay 2 - Row 4 Column E,View,No,No,No
+J1-1B,Main Warehouse,Section J Bay 1 - Row 1 Column B,View,No,No,No
+J1-1D,Main Warehouse,Section J Bay 1 - Row 1 Column D,View,No,No,No
+J1-1F,Main Warehouse,Section J Bay 1 - Row 1 Column F,View,No,No,No
+J1-1H,Main Warehouse,Section J Bay 1 - Row 1 Column H,View,No,No,No
+J1-1J,Main Warehouse,Section J Bay 1 - Row 1 Column J,View,No,No,No
+J1-2A,Main Warehouse,Section J Bay 1 - Row 2 Column A,View,No,No,No
+J1-2C,Main Warehouse,Section J Bay 1 - Row 2 Column C,View,No,No,No
+J1-2E,Main Warehouse,Section J Bay 1 - Row 2 Column E,View,No,No,No
+J1-2G,Main Warehouse,Section J Bay 1 - Row 2 Column G,View,No,No,No
+J1-2I,Main Warehouse,Section J Bay 1 - Row 2 Column I,View,No,No,No
+J1-2K,Main Warehouse,Section J Bay 1 - Row 2 Column K,View,No,No,No
+J1-3B,Main Warehouse,Section J Bay 1 - Row 3 Column B,View,No,No,No
+J1-3D,Main Warehouse,Section J Bay 1 - Row 3 Column D,View,No,No,No
+J1-3F,Main Warehouse,Section J Bay 1 - Row 3 Column F,View,No,No,No
+J1-3H,Main Warehouse,Section J Bay 1 - Row 3 Column H,View,No,No,No
+J1-3J,Main Warehouse,Section J Bay 1 - Row 3 Column J,View,No,No,No
+J1-4A,Main Warehouse,Section J Bay 1 - Row 4 Column A,View,No,No,No
+J1-4C,Main Warehouse,Section J Bay 1 - Row 4 Column C,View,No,No,No
+J1-4E,Main Warehouse,Section J Bay 1 - Row 4 Column E,View,No,No,No
+J2-1B,Main Warehouse,Section J Bay 2 - Row 1 Column B,View,No,No,No
+J2-1D,Main Warehouse,Section J Bay 2 - Row 1 Column D,View,No,No,No
+J2-1F,Main Warehouse,Section J Bay 2 - Row 1 Column F,View,No,No,No
+J2-1H,Main Warehouse,Section J Bay 2 - Row 1 Column H,View,No,No,No
+J2-1J,Main Warehouse,Section J Bay 2 - Row 1 Column J,View,No,No,No
+J2-2A,Main Warehouse,Section J Bay 2 - Row 2 Column A,View,No,No,No
+J2-2C,Main Warehouse,Section J Bay 2 - Row 2 Column C,View,No,No,No
+J2-2E,Main Warehouse,Section J Bay 2 - Row 2 Column E,View,No,No,No
+J2-2G,Main Warehouse,Section J Bay 2 - Row 2 Column G,View,No,No,No
+J2-2I,Main Warehouse,Section J Bay 2 - Row 2 Column I,View,No,No,No
+J2-2K,Main Warehouse,Section J Bay 2 - Row 2 Column K,View,No,No,No
+J2-3B,Main Warehouse,Section J Bay 2 - Row 3 Column B,View,No,No,No
+J2-3D,Main Warehouse,Section J Bay 2 - Row 3 Column D,View,No,No,No
+J2-3F,Main Warehouse,Section J Bay 2 - Row 3 Column F,View,No,No,No
+A1-4G,Main Warehouse,Section A Bay 1 - Row 4 Column G,View,No,No,No
+A1-4I,Main Warehouse,Section A Bay 1 - Row 4 Column I,View,No,No,No
+A1-4K,Main Warehouse,Section A Bay 1 - Row 4 Column K,View,No,No,No
+B1-4F,Main Warehouse,Section B Bay 1 - Row 4 Column F,View,No,No,No
+B1-4I,Main Warehouse,Section B Bay 1 - Row 4 Column I,View,No,No,No
+B2-4G,Main Warehouse,Section B Bay 2 - Row 4 Column G,View,No,No,No
+B2-4J,Main Warehouse,Section B Bay 2 - Row 4 Column J,View,No,No,No
+C2-4G,Main Warehouse,Section C Bay 2 - Row 4 Column G,View,No,No,No
+C2-4I,Main Warehouse,Section C Bay 2 - Row 4 Column I,View,No,No,No
+C2-4K,Main Warehouse,Section C Bay 2 - Row 4 Column K,View,No,No,No
+D1-4G,Main Warehouse,Section D Bay 1 - Row 4 Column G,View,No,No,No
+D1-4I,Main Warehouse,Section D Bay 1 - Row 4 Column I,View,No,No,No
+D1-4K,Main Warehouse,Section D Bay 1 - Row 4 Column K,View,No,No,No
+D2-4G,Main Warehouse,Section D Bay 2 - Row 4 Column G,View,No,No,No
+D2-4I,Main Warehouse,Section D Bay 2 - Row 4 Column I,View,No,No,No
+D2-4K,Main Warehouse,Section D Bay 2 - Row 4 Column K,View,No,No,No
+E1-4G,Main Warehouse,Section E Bay 1 - Row 4 Column G,View,No,No,No
+E1-4I,Main Warehouse,Section E Bay 1 - Row 4 Column I,View,No,No,No
+E1-4K,Main Warehouse,Section E Bay 1 - Row 4 Column K,View,No,No,No
+E2-4G,Main Warehouse,Section E Bay 2 - Row 4 Column G,View,No,No,No
+E2-4I,Main Warehouse,Section E Bay 2 - Row 4 Column I,View,No,No,No
+E2-4K,Main Warehouse,Section E Bay 2 - Row 4 Column K,View,No,No,No
+F1-4G,Main Warehouse,Section F Bay 1 - Row 4 Column G,View,No,No,No
+F1-4I,Main Warehouse,Section F Bay 1 - Row 4 Column I,View,No,No,No
+F1-4K,Main Warehouse,Section F Bay 1 - Row 4 Column K,View,No,No,No
+F2-4G,Main Warehouse,Section F Bay 2 - Row 4 Column G,View,No,No,No
+F2-4I,Main Warehouse,Section F Bay 2 - Row 4 Column I,View,No,No,No
+F2-4K,Main Warehouse,Section F Bay 2 - Row 4 Column K,View,No,No,No
+G2-4F,Main Warehouse,Section G Bay 2 - Row 4 Column F,View,No,No,No
+G2-4H,Main Warehouse,Section G Bay 2 - Row 4 Column H,View,No,No,No
+G2-4J,Main Warehouse,Section G Bay 2 - Row 4 Column J,View,No,No,No
+H1-4G,Main Warehouse,Section H Bay 1 - Row 4 Column G,View,No,No,No
+H1-4I,Main Warehouse,Section H Bay 1 - Row 4 Column I,View,No,No,No
+H1-4K,Main Warehouse,Section H Bay 1 - Row 4 Column K,View,No,No,No
+H2-4G,Main Warehouse,Section H Bay 2 - Row 4 Column G,View,No,No,No
+H2-4I,Main Warehouse,Section H Bay 2 - Row 4 Column I,View,No,No,No
+H2-4K,Main Warehouse,Section H Bay 2 - Row 4 Column K,View,No,No,No
+I1-4G,Main Warehouse,Section I Bay 2 - Row 4 Column G,View,No,No,No
+I1-4I,Main Warehouse,Section I Bay 2 - Row 4 Column I,View,No,No,No
+I1-4K,Main Warehouse,Section I Bay 2 - Row 4 Column K,View,No,No,No
+I2-4G,Main Warehouse,Section I Bay 2 - Row 4 Column G,View,No,No,No
+I2-4I,Main Warehouse,Section I Bay 2 - Row 4 Column I,View,No,No,No
+I2-4K,Main Warehouse,Section I Bay 2 - Row 4 Column K,View,No,No,No
+J1-4G,Main Warehouse,Section J Bay 1 - Row 4 Column G,View,No,No,No
+J1-4H,Main Warehouse,Section J Bay 1 - Row 4 Column H,View,No,No,No
+J1-4J,Main Warehouse,Section J Bay 1 - Row 4 Column J,View,No,No,No
+J1-4K,Main Warehouse,Section J Bay 1 - Row 4 Column K,View,No,No,No
+J2-4G,Main Warehouse,Section J Bay 2 - Row 4 Column G,View,No,No,No
+J2-4H,Main Warehouse,Section J Bay 2 - Row 4 Column H,View,No,No,No
+J2-4J,Main Warehouse,Section J Bay 2 - Row 4 Column J,View,No,No,No
+J2-4K,Main Warehouse,Section J Bay 2 - Row 4 Column K,View,No,No,No
+K2-4H,Main Warehouse,Section K Bay 2 - Row 4 Column H,View,No,No,No
+PR-A2,Main Warehouse,Pallet Racking - Section A Row 2,View,No,No,No
+PR-B1,Main Warehouse,Pallet Racking - Section B Row 1,View,No,No,No
+PR-B5,Main Warehouse,Pallet Racking - Section B Row 5,View,No,No,No
+PR-C4,Main Warehouse,Pallet Racking - Section C Row 4,View,No,No,No
+PR-D3,Main Warehouse,Pallet Racking - Section D Row 3,View,No,No,No
+PR-E2,Main Warehouse,Pallet Racking - Section E Row 2,View,No,No,No
+PR-E5,Main Warehouse,Pallet Racking - Section E Row 5,View,No,No,No
+VW-A1-1A,Main Warehouse,POS Section A Bay 1 - Row 1 Column A,View,No,No,No
+VW-A1-1C,Main Warehouse,POS Section A Bay 1 - Row 1 Column C,View,No,No,No
+VW-A1-1E,Main Warehouse,POS Section A Bay 1 - Row 1 Column E,View,No,No,No
+VW-A1-1G,Main Warehouse,POS Section A Bay 1 - Row 1 Column G,View,No,No,No
+VW-A1-1I,Main Warehouse,POS Section A Bay 1 - Row 1 Column I,View,No,No,No
+VW-A1-1K,Main Warehouse,POS Section A Bay 1 - Row 1 Column K,View,No,No,No
+VW-A1-2B,Main Warehouse,POS Section A Bay 1 - Row 2 Column B,View,No,No,No
+VW-A1-2D,Main Warehouse,POS Section A Bay 1 - Row 2 Column D,View,No,No,No
+VW-A1-2F,Main Warehouse,POS Section A Bay 1 - Row 2 Column F,View,No,No,No
+VW-A1-2H,Main Warehouse,POS Section A Bay 1 - Row 2 Column H,View,No,No,No
+VW-A1-2J,Main Warehouse,POS Section A Bay 1 - Row 2 Column J,View,No,No,No
+VW-A1-3A,Main Warehouse,POS Section A Bay 1 - Row 3 Column A,View,No,No,No
+VW-A1-3C,Main Warehouse,POS Section A Bay 1 - Row 3 Column C,View,No,No,No
+VW-A1-3E,Main Warehouse,POS Section A Bay 1 - Row 3 Column E,View,No,No,No
+VW-A1-3G,Main Warehouse,POS Section A Bay 1 - Row 3 Column G,View,No,No,No
+VW-A1-3I,Main Warehouse,POS Section A Bay 1 - Row 3 Column I,View,No,No,No
+VW-A1-3K,Main Warehouse,POS Section A Bay 1 - Row 3 Column K,View,No,No,No
+VW-A1-4B,Main Warehouse,POS Section A Bay 1 - Row 4 Column B,View,No,No,No
+VW-A1-4D,Main Warehouse,POS Section A Bay 1 - Row 4 Column D,View,No,No,No
+VW-A1-4F,Main Warehouse,POS Section A Bay 1 - Row 4 Column F,View,No,No,No
+Picked-1-1191991-1,Main Warehouse,,View,No,No,No
+A1-1K,Main Warehouse,Section A Bay 1 - Row 1 Column K,View,No,No,No
+QA,Main Warehouse,Default Receiving Bin for all PO & Returns,View,Yes,No,No
+J2-3H,Main Warehouse,Section J Bay 2 - Row 3 Column H,View,No,No,No
+J2-3J,Main Warehouse,Section J Bay 2 - Row 3 Column J,View,No,No,No
+J2-4A,Main Warehouse,Section J Bay 2 - Row 4 Column A,View,No,No,No
+J2-4C,Main Warehouse,Section J Bay 2 - Row 4 Column C,View,No,No,No
+J2-4E,Main Warehouse,Section J Bay 2 - Row 4 Column E,View,No,No,No
+K1-1B,Main Warehouse,Section K Bay 1 - Row 1 Column B,View,No,No,No
+K1-1D,Main Warehouse,Section K Bay 1 - Row 1 Column D,View,No,No,No
+K1-1F,Main Warehouse,Section K Bay 1 - Row 1 Column F,View,No,No,No
+K1-1H,Main Warehouse,Section K Bay 1 - Row 1 Column H,View,No,No,No
+K1-1J,Main Warehouse,Section K Bay 1 - Row 1 Column J,View,No,No,No
+K1-2A,Main Warehouse,Section K Bay 1 - Row 2 Column A,View,No,No,No
+K1-2C,Main Warehouse,Section K Bay 1 - Row 2 Column C,View,No,No,No
+K1-2E,Main Warehouse,Section K Bay 1 - Row 2 Column E,View,No,No,No
+K1-2G,Main Warehouse,Section K Bay 1 - Row 2 Column G,View,No,No,No
+K1-2I,Main Warehouse,Section K Bay 1 - Row 2 Column I,View,No,No,No
+K1-2K,Main Warehouse,Section K Bay 1 - Row 2 Column K,View,No,No,No
+K1-3B,Main Warehouse,Section K Bay 1 - Row 3 Column B,View,No,No,No
+K1-3D,Main Warehouse,Section K Bay 1 - Row 3 Column D,View,No,No,No
+K1-3F,Main Warehouse,Section K Bay 1 - Row 3 Column F,View,No,No,No
+K1-3H,Main Warehouse,Section K Bay 1 - Row 3 Column H,View,No,No,No
+K1-3J,Main Warehouse,Section K Bay 1 - Row 3 Column J,View,No,No,No
+K1-4A,Main Warehouse,Section K Bay 1 - Row 4 Column A,View,No,No,No
+K1-4C,Main Warehouse,Section K Bay 1 - Row 4 Column C,View,No,No,No
+K1-4E,Main Warehouse,Section K Bay 1 - Row 4 Column E,View,No,No,No
+K2-1B,Main Warehouse,Section K Bay 2 - Row 1 Column B,View,No,No,No
+K2-1D,Main Warehouse,Section K Bay 2 - Row 1 Column D,View,No,No,No
+K2-1F,Main Warehouse,Section K Bay 2 - Row 1 Column F,View,No,No,No
+K2-1H,Main Warehouse,Section K Bay 2 - Row 1 Column H,View,No,No,No
+K2-1J,Main Warehouse,Section K Bay 2 - Row 1 Column J,View,No,No,No
+K2-2A,Main Warehouse,Section K Bay 2 - Row 2 Column A,View,No,No,No
+K2-2C,Main Warehouse,Section K Bay 2 - Row 2 Column C,View,No,No,No
+K2-2E,Main Warehouse,Section K Bay 2 - Row 2 Column E,View,No,No,No
+K2-2G,Main Warehouse,Section K Bay 2 - Row 2 Column G,View,No,No,No
+K2-2I,Main Warehouse,Section K Bay 2 - Row 2 Column I,View,No,No,No
+K2-2K,Main Warehouse,Section K Bay 2 - Row 2 Column K,View,No,No,No
+K2-3B,Main Warehouse,Section K Bay 2 - Row 3 Column B,View,No,No,No
+K2-3D,Main Warehouse,Section K Bay 2 - Row 3 Column D,View,No,No,No
+K2-3F,Main Warehouse,Section K Bay 2 - Row 3 Column F,View,No,No,No
+K2-3H,Main Warehouse,Section K Bay 2 - Row 3 Column H,View,No,No,No
+K2-3J,Main Warehouse,Section K Bay 2 - Row 3 Column J,View,No,No,No
+K2-4A,Main Warehouse,Section K Bay 2 - Row 4 Column A,View,No,No,No
+K2-4C,Main Warehouse,Section K Bay 2 - Row 4 Column C,View,No,No,No
+K2-4E,Main Warehouse,Section K Bay 2 - Row 4 Column E,View,No,No,No
+CR-A2,Main Warehouse,Cool Room - Section A Row 2,View,No,No,No
+CR-A4,Main Warehouse,Cool Room - Section A Row 4,View,No,No,No
+CR-B2,Main Warehouse,Cool Room - Section B Row 2,View,No,No,No
+CR-B4,Main Warehouse,Cool Room - Section B Row 4,View,No,No,No
+CR-C2,Main Warehouse,Cool Room - Section C Row 2,View,No,No,No
+CR-C4,Main Warehouse,Cool Room - Section C Row 4,View,No,No,No
+CR-D2,Main Warehouse,Cool Room - Section D Row 2,View,No,No,No
+CR-D4,Main Warehouse,Cool Room - Section D Row 4,View,No,No,No
+CR-E2,Main Warehouse,Cool Room - Section E Row 2,View,No,No,No
+CR-E4,Main Warehouse,Cool Room - Section E Row 4,View,No,No,No
+CR-F2,Main Warehouse,Cool Room - Section F Row 2,View,No,No,No
+CR-F4,Main Warehouse,Cool Room - Section F Row 4,View,No,No,No
+CR-G2,Main Warehouse,Cool Room - Section G Row 2,View,No,No,No
+CR-G4,Main Warehouse,Cool Room - Section G Row 4,View,No,No,No
+CR-H2,Main Warehouse,Cool Room - Section H Row 2,View,No,No,No
+CR-H4,Main Warehouse,Cool Room - Section H Row 4,View,No,No,No
+CR-I2,Main Warehouse,Cool Room - Section I Row 2,View,No,No,No
+CR-I4,Main Warehouse,Cool Room - Section I Row 4,View,No,No,No
+CR-J2,Main Warehouse,Cool Room - Section J Row 2,View,No,No,No
+CR-J4,Main Warehouse,Cool Room - Section J Row 4,View,No,No,No
+A2-4G,Main Warehouse,Section A Bay 2 - Row 4 Column G,View,No,No,No
+B1-4H,Main Warehouse,Section B Bay 1 - Row 4 Column H,View,No,No,No
+B1-4K,Main Warehouse,Section B Bay 1 - Row 4 Column K,View,No,No,No
+C1-4H,Main Warehouse,Section C Bay 1 - Row 4 Column H,View,No,No,No
+C1-4K,Main Warehouse,Section C Bay 1 - Row 4 Column K,View,No,No,No
+C2-4F,Main Warehouse,Section C Bay 2 - Row 4 Column F,View,No,No,No
+C2-4H,Main Warehouse,Section C Bay 2 - Row 4 Column H,View,No,No,No
+C2-4J,Main Warehouse,Section C Bay 2 - Row 4 Column J,View,No,No,No
+A1-4F,Main Warehouse,Section A Bay 1 - Row 4 Column F,View,No,No,No
+A1-4H,Main Warehouse,Section A Bay 1 - Row 4 Column H,View,No,No,No
+A1-4J,Main Warehouse,Section A Bay 1 - Row 4 Column J,View,No,No,No
+A2-4K,Main Warehouse,Section A Bay 2 - Row 4 Column K,View,No,No,No
+B2-4H,Main Warehouse,Section B Bay 2 - Row 4 Column H,View,No,No,No
+B2-4K,Main Warehouse,Section B Bay 2 - Row 4 Column K,View,No,No,No
+C1-4F,Main Warehouse,Section C Bay 1 - Row 4 Column F,View,No,No,No
+D1-4F,Main Warehouse,Section D Bay 1 - Row 4 Column F,View,No,No,No
+D1-4H,Main Warehouse,Section D Bay 1 - Row 4 Column H,View,No,No,No
+D1-4J,Main Warehouse,Section D Bay 1 - Row 4 Column J,View,No,No,No
+D2-4F,Main Warehouse,Section D Bay 2 - Row 4 Column F,View,No,No,No
+D2-4H,Main Warehouse,Section D Bay 2 - Row 4 Column H,View,No,No,No
+D2-4J,Main Warehouse,Section D Bay 2 - Row 4 Column J,View,No,No,No
+E1-4F,Main Warehouse,Section E Bay 1 - Row 4 Column F,View,No,No,No
+E1-4H,Main Warehouse,Section E Bay 1 - Row 4 Column H,View,No,No,No
+E1-4J,Main Warehouse,Section E Bay 1 - Row 4 Column J,View,No,No,No
+E2-4F,Main Warehouse,Section E Bay 2 - Row 4 Column F,View,No,No,No
+E2-4H,Main Warehouse,Section E Bay 2 - Row 4 Column H,View,No,No,No
+E2-4J,Main Warehouse,Section E Bay 2 - Row 4 Column J,View,No,No,No
+F1-4F,Main Warehouse,Section F Bay 1 - Row 4 Column F,View,No,No,No
+F1-4H,Main Warehouse,Section F Bay 1 - Row 4 Column H,View,No,No,No
+F1-4J,Main Warehouse,Section F Bay 1 - Row 4 Column J,View,No,No,No
+F2-4F,Main Warehouse,Section F Bay 2 - Row 4 Column F,View,No,No,No
+F2-4H,Main Warehouse,Section F Bay 2 - Row 4 Column H,View,No,No,No
+F2-4J,Main Warehouse,Section F Bay 2 - Row 4 Column J,View,No,No,No
+G1-4F,Main Warehouse,Section G Bay 1 - Row 4 Column F,View,No,No,No
+G1-4G,Main Warehouse,Section G Bay 1 - Row 4 Column G,View,No,No,No
+G1-4H,Main Warehouse,Section G Bay 1 - Row 4 Column H,View,No,No,No
+G1-4I,Main Warehouse,Section G Bay 1 - Row 4 Column I,View,No,No,No
+G1-4J,Main Warehouse,Section G Bay 1 - Row 4 Column J,View,No,No,No
+G1-4K,Main Warehouse,Section G Bay 1 - Row 4 Column K,View,No,No,No
+G2-4G,Main Warehouse,Section G Bay 2 - Row 4 Column G,View,No,No,No
+G2-4I,Main Warehouse,Section G Bay 2 - Row 4 Column I,View,No,No,No
+G2-4K,Main Warehouse,Section G Bay 2 - Row 4 Column K,View,No,No,No
+H1-4F,Main Warehouse,Section H Bay 1 - Row 4 Column F,View,No,No,No
+H1-4H,Main Warehouse,Section H Bay 1 - Row 4 Column H,View,No,No,No
+H1-4J,Main Warehouse,Section H Bay 1 - Row 4 Column J,View,No,No,No
+H2-4F,Main Warehouse,Section H Bay 2 - Row 4 Column F,View,No,No,No
+H2-4H,Main Warehouse,Section H Bay 2 - Row 4 Column H,View,No,No,No
+H2-4J,Main Warehouse,Section H Bay 2 - Row 4 Column J,View,No,No,No
+I1-4F,Main Warehouse,Section I Bay 2 - Row 4 Column F,View,No,No,No
+I1-4H,Main Warehouse,Section I Bay 2 - Row 4 Column H,View,No,No,No
+I1-4J,Main Warehouse,Section I Bay 2 - Row 4 Column J,View,No,No,No
+I2-4F,Main Warehouse,Section I Bay 2 - Row 4 Column F,View,No,No,No
+I2-4H,Main Warehouse,Section I Bay 2 - Row 4 Column H,View,No,No,No
+I2-4J,Main Warehouse,Section I Bay 2 - Row 4 Column J,View,No,No,No
+J1-4F,Main Warehouse,Section J Bay 1 - Row 4 Column F,View,No,No,No
+J1-4I,Main Warehouse,Section J Bay 1 - Row 4 Column I,View,No,No,No
+J2-4F,Main Warehouse,Section J Bay 2 - Row 4 Column F,View,No,No,No
+J2-4I,Main Warehouse,Section J Bay 2 - Row 4 Column I,View,No,No,No
+K1-4F,Main Warehouse,Section K Bay 1 - Row 4 Column F,View,No,No,No
+K1-4G,Main Warehouse,Section K Bay 1 - Row 4 Column G,View,No,No,No
+K1-4H,Main Warehouse,Section K Bay 1 - Row 4 Column H,View,No,No,No
+K1-4I,Main Warehouse,Section K Bay 1 - Row 4 Column I,View,No,No,No
+K1-4J,Main Warehouse,Section K Bay 1 - Row 4 Column J,View,No,No,No
+K1-4K,Main Warehouse,Section K Bay 1 - Row 4 Column K,View,No,No,No
+K2-4F,Main Warehouse,Section K Bay 2 - Row 4 Column F,View,No,No,No
+K2-4I,Main Warehouse,Section K Bay 2 - Row 4 Column I,View,No,No,No
+K2-4J,Main Warehouse,Section K Bay 2 - Row 4 Column J,View,No,No,No
+Picked-1-1191991,Main Warehouse,,View,No,No,No
+PR-A1,Main Warehouse,Pallet Racking - Section A Row 1,View,No,No,No
+PR-A4,Main Warehouse,Pallet Racking - Section A Row 4,View,No,No,No
+PR-A5,Main Warehouse,Pallet Racking - Section A Row 5,View,No,No,No
+PR-B2,Main Warehouse,Pallet Racking - Section B Row 2,View,No,No,No
+PR-B3,Main Warehouse,Pallet Racking - Section B Row 3,View,No,No,No
+PR-B4,Main Warehouse,Pallet Racking - Section B Row 4,View,No,No,No
+PR-C2,Main Warehouse,Pallet Racking - Section C Row 2,View,No,No,No
+PR-C3,Main Warehouse,Pallet Racking - Section C Row 3,View,No,No,No
+PR-C5,Main Warehouse,Pallet Racking - Section C Row 5,View,No,No,No
+PR-D1,Main Warehouse,Pallet Racking - Section D Row 1,View,No,No,No
+PR-D2,Main Warehouse,Pallet Racking - Section D Row 2,View,No,No,No
+PR-D5,Main Warehouse,Pallet Racking - Section D Row 5,View,No,No,No
+PR-E1,Main Warehouse,Pallet Racking - Section E Row 1,View,No,No,No
+PR-E4,Main Warehouse,Pallet Racking - Section E Row 4,View,No,No,No
+BeautyPackaging,Main Warehouse,Location Setup For Packing Held at Beauty Manufacturer,View,No,No,No
+F2-1G,Main Warehouse,Section F Bay 2 - Row 1 Column G,View,No,No,No
+F2-1I,Main Warehouse,Section F Bay 2 - Row 1 Column I,View,No,No,No
+F2-1K,Main Warehouse,Section F Bay 2 - Row 1 Column K,View,No,No,No
+F2-2B,Main Warehouse,Section F Bay 2 - Row 2 Column B,View,No,No,No
+F2-2D,Main Warehouse,Section F Bay 2 - Row 2 Column D,View,No,No,No
+F2-2F,Main Warehouse,Section F Bay 2 - Row 2 Column F,View,No,No,No
+F2-2H,Main Warehouse,Section F Bay 2 - Row 2 Column H,View,No,No,No
+F2-2J,Main Warehouse,Section F Bay 2 - Row 2 Column J,View,No,No,No
+F2-3A,Main Warehouse,Section F Bay 2 - Row 3 Column A,View,No,No,No
+F2-3C,Main Warehouse,Section F Bay 2 - Row 3 Column C,View,No,No,No
+F2-3E,Main Warehouse,Section F Bay 2 - Row 3 Column E,View,No,No,No
+F2-3G,Main Warehouse,Section F Bay 2 - Row 3 Column G,View,No,No,No
+F2-3I,Main Warehouse,Section F Bay 2 - Row 3 Column I,View,No,No,No
+F2-3K,Main Warehouse,Section F Bay 2 - Row 3 Column K,View,No,No,No
+F2-4B,Main Warehouse,Section F Bay 2 - Row 4 Column B,View,No,No,No
+F2-4D,Main Warehouse,Section F Bay 2 - Row 4 Column D,View,No,No,No
+G1-1A,Main Warehouse,Section G Bay 1 - Row 1 Column A,View,No,No,No
+G1-1C,Main Warehouse,Section G Bay 1 - Row 1 Column C,View,No,No,No
+G1-1E,Main Warehouse,Section G Bay 1 - Row 1 Column E,View,No,No,No
+G1-1G,Main Warehouse,Section G Bay 1 - Row 1 Column G,View,No,No,No
+G1-1I,Main Warehouse,Section G Bay 1 - Row 1 Column I,View,No,No,No
+G1-1K,Main Warehouse,Section G Bay 1 - Row 1 Column K,View,No,No,No
+G1-2B,Main Warehouse,Section G Bay 1 - Row 2 Column B,View,No,No,No
+G1-2D,Main Warehouse,Section G Bay 1 - Row 2 Column D,View,No,No,No
+G1-2F,Main Warehouse,Section G Bay 1 - Row 2 Column F,View,No,No,No
+G1-2H,Main Warehouse,Section G Bay 1 - Row 2 Column H,View,No,No,No
+G1-2J,Main Warehouse,Section G Bay 1 - Row 2 Column J,View,No,No,No
+G1-3A,Main Warehouse,Section G Bay 1 - Row 3 Column A,View,No,No,No
+G1-3C,Main Warehouse,Section G Bay 1 - Row 3 Column C,View,No,No,No
+G1-3E,Main Warehouse,Section G Bay 1 - Row 3 Column E,View,No,No,No
+G1-3G,Main Warehouse,Section G Bay 1 - Row 3 Column G,View,No,No,No
+G1-3I,Main Warehouse,Section G Bay 1 - Row 3 Column I,View,No,No,No
+G1-3K,Main Warehouse,Section G Bay 1 - Row 3 Column K,View,No,No,No
+G1-4B,Main Warehouse,Section G Bay 1 - Row 4 Column B,View,No,No,No
+G1-4D,Main Warehouse,Section G Bay 1 - Row 4 Column D,View,No,No,No
+G2-1A,Main Warehouse,Section G Bay 2 - Row 1 Column A,View,No,No,No
+G2-1C,Main Warehouse,Section G Bay 2 - Row 1 Column C,View,No,No,No
+G2-1E,Main Warehouse,Section G Bay 2 - Row 1 Column E,View,No,No,No
+G2-1G,Main Warehouse,Section G Bay 2 - Row 1 Column G,View,No,No,No
+G2-1I,Main Warehouse,Section G Bay 2 - Row 1 Column I,View,No,No,No
+G2-1K,Main Warehouse,Section G Bay 2 - Row 1 Column K,View,No,No,No
+G2-2B,Main Warehouse,Section G Bay 2 - Row 2 Column B,View,No,No,No
+G2-2D,Main Warehouse,Section G Bay 2 - Row 2 Column D,View,No,No,No
+G2-2F,Main Warehouse,Section G Bay 2 - Row 2 Column F,View,No,No,No
+G2-2H,Main Warehouse,Section G Bay 2 - Row 2 Column H,View,No,No,No
+G2-2J,Main Warehouse,Section G Bay 2 - Row 2 Column J,View,No,No,No
+G2-3A,Main Warehouse,Section G Bay 2 - Row 3 Column A,View,No,No,No
+G2-3C,Main Warehouse,Section G Bay 2 - Row 3 Column C,View,No,No,No
+G2-3E,Main Warehouse,Section G Bay 2 - Row 3 Column E,View,No,No,No
+G2-3G,Main Warehouse,Section G Bay 2 - Row 3 Column G,View,No,No,No
+G2-3I,Main Warehouse,Section G Bay 2 - Row 3 Column I,View,No,No,No
+G2-3K,Main Warehouse,Section G Bay 2 - Row 3 Column K,View,No,No,No
+G2-4B,Main Warehouse,Section G Bay 2 - Row 4 Column B,View,No,No,No
+G2-4D,Main Warehouse,Section G Bay 2 - Row 4 Column D,View,No,No,No
+H1-1A,Main Warehouse,Section H Bay 1 - Row 1 Column A,View,No,No,No
+H1-1C,Main Warehouse,Section H Bay 1 - Row 1 Column C,View,No,No,No
+H1-1E,Main Warehouse,Section H Bay 1 - Row 1 Column E,View,No,No,No
+H1-1G,Main Warehouse,Section H Bay 1 - Row 1 Column G,View,No,No,No
+H1-1I,Main Warehouse,Section H Bay 1 - Row 1 Column I,View,No,No,No
+H1-1K,Main Warehouse,Section H Bay 1 - Row 1 Column K,View,No,No,No
+H1-2B,Main Warehouse,Section H Bay 1 - Row 2 Column B,View,No,No,No
+H1-2D,Main Warehouse,Section H Bay 1 - Row 2 Column D,View,No,No,No
+H1-2F,Main Warehouse,Section H Bay 1 - Row 2 Column F,View,No,No,No
+H1-2H,Main Warehouse,Section H Bay 1 - Row 2 Column H,View,No,No,No
+H1-2J,Main Warehouse,Section H Bay 1 - Row 2 Column J,View,No,No,No
+H1-3A,Main Warehouse,Section H Bay 1 - Row 3 Column A,View,No,No,No
+H1-3C,Main Warehouse,Section H Bay 1 - Row 3 Column C,View,No,No,No
+H1-3E,Main Warehouse,Section H Bay 1 - Row 3 Column E,View,No,No,No
+H1-3G,Main Warehouse,Section H Bay 1 - Row 3 Column G,View,No,No,No
+H1-3I,Main Warehouse,Section H Bay 1 - Row 3 Column I,View,No,No,No
+H1-3K,Main Warehouse,Section H Bay 1 - Row 3 Column K,View,No,No,No
+H1-4B,Main Warehouse,Section H Bay 1 - Row 4 Column B,View,No,No,No
+H1-4D,Main Warehouse,Section H Bay 1 - Row 4 Column D,View,No,No,No
+H2-1A,Main Warehouse,Section H Bay 2 - Row 1 Column A,View,No,No,No
+H2-1C,Main Warehouse,Section H Bay 2 - Row 1 Column C,View,No,No,No
+H2-1E,Main Warehouse,Section H Bay 2 - Row 1 Column E,View,No,No,No
+H2-1G,Main Warehouse,Section H Bay 2 - Row 1 Column G,View,No,No,No
+H2-1I,Main Warehouse,Section H Bay 2 - Row 1 Column I,View,No,No,No
+H2-1K,Main Warehouse,Section H Bay 2 - Row 1 Column K,View,No,No,No
+H2-2B,Main Warehouse,Section H Bay 2 - Row 2 Column B,View,No,No,No
+H2-2D,Main Warehouse,Section H Bay 2 - Row 2 Column D,View,No,No,No
+H2-2F,Main Warehouse,Section H Bay 2 - Row 2 Column F,View,No,No,No
+H2-2H,Main Warehouse,Section H Bay 2 - Row 2 Column H,View,No,No,No
+H2-2J,Main Warehouse,Section H Bay 2 - Row 2 Column J,View,No,No,No
+H2-3A,Main Warehouse,Section H Bay 2 - Row 3 Column A,View,No,No,No
+H2-3C,Main Warehouse,Section H Bay 2 - Row 3 Column C,View,No,No,No
+H2-3E,Main Warehouse,Section H Bay 2 - Row 3 Column E,View,No,No,No
+H2-3G,Main Warehouse,Section H Bay 2 - Row 3 Column G,View,No,No,No
+H2-3I,Main Warehouse,Section H Bay 2 - Row 3 Column I,View,No,No,No
+H2-3K,Main Warehouse,Section H Bay 2 - Row 3 Column K,View,No,No,No
+H2-4B,Main Warehouse,Section H Bay 2 - Row 4 Column B,View,No,No,No
+H2-4D,Main Warehouse,Section H Bay 2 - Row 4 Column D,View,No,No,No
+I1-1A,Main Warehouse,Section I Bay 1 - Row 1 Column A,View,No,No,No
+I1-1C,Main Warehouse,Section I Bay 1 - Row 1 Column C,View,No,No,No
+I1-1E,Main Warehouse,Section I Bay 1 - Row 1 Column E,View,No,No,No
+I1-1G,Main Warehouse,Section I Bay 1 - Row 1 Column G,View,No,No,No
+I1-1I,Main Warehouse,Section I Bay 1 - Row 1 Column I,View,No,No,No
+I1-1K,Main Warehouse,Section I Bay 1 - Row 1 Column K,View,No,No,No
+I1-2B,Main Warehouse,Section I Bay 1 - Row 2 Column B,View,No,No,No
+I1-2D,Main Warehouse,Section I Bay 1 - Row 2 Column D,View,No,No,No
+I1-2F,Main Warehouse,Section I Bay 1 - Row 2 Column F,View,No,No,No
+I1-2H,Main Warehouse,Section I Bay 1 - Row 2 Column H,View,No,No,No
+I1-2J,Main Warehouse,Section I Bay 1 - Row 2 Column J,View,No,No,No
+I1-3A,Main Warehouse,Section I Bay 1 - Row 3 Column A,View,No,No,No
+I1-3C,Main Warehouse,Section I Bay 1 - Row 3 Column C,View,No,No,No
+I1-3E,Main Warehouse,Section I Bay 1 - Row 3 Column E,View,No,No,No
+I1-3G,Main Warehouse,Section I Bay 1 - Row 3 Column G,View,No,No,No
+I1-3I,Main Warehouse,Section I Bay 1 - Row 3 Column I,View,No,No,No
+I1-3K,Main Warehouse,Section I Bay 1 - Row 3 Column K,View,No,No,No
+I1-4B,Main Warehouse,Section I Bay 1 - Row 4 Column B,View,No,No,No
+I1-4D,Main Warehouse,Section I Bay 1 - Row 4 Column D,View,No,No,No
+I2-1A,Main Warehouse,Section I Bay 2 - Row 1 Column A,View,No,No,No
+I2-1C,Main Warehouse,Section I Bay 2 - Row 1 Column C,View,No,No,No
+I2-1E,Main Warehouse,Section I Bay 2 - Row 1 Column E,View,No,No,No
+I2-1G,Main Warehouse,Section I Bay 2 - Row 1 Column G,View,No,No,No
+I2-1I,Main Warehouse,Section I Bay 2 - Row 1 Column I,View,No,No,No
+I2-1K,Main Warehouse,Section I Bay 2 - Row 1 Column K,View,No,No,No
+I2-2B,Main Warehouse,Section I Bay 2 - Row 2 Column B,View,No,No,No
+I2-2D,Main Warehouse,Section I Bay 2 - Row 2 Column D,View,No,No,No
+I2-2F,Main Warehouse,Section I Bay 2 - Row 2 Column F,View,No,No,No
+I2-2H,Main Warehouse,Section I Bay 2 - Row 2 Column H,View,No,No,No
+I2-2J,Main Warehouse,Section I Bay 2 - Row 2 Column J,View,No,No,No
+I2-3A,Main Warehouse,Section I Bay 2 - Row 3 Column A,View,No,No,No
+I2-3C,Main Warehouse,Section I Bay 2 - Row 3 Column C,View,No,No,No
+I2-3E,Main Warehouse,Section I Bay 2 - Row 3 Column E,View,No,No,No
+I2-3G,Main Warehouse,Section I Bay 2 - Row 3 Column G,View,No,No,No
+I2-3I,Main Warehouse,Section I Bay 2 - Row 3 Column I,View,No,No,No
+I2-3K,Main Warehouse,Section I Bay 2 - Row 3 Column K,View,No,No,No
+I2-4B,Main Warehouse,Section I Bay 2 - Row 4 Column B,View,No,No,No
+I2-4D,Main Warehouse,Section I Bay 2 - Row 4 Column D,View,No,No,No
+J1-1A,Main Warehouse,Section J Bay 1 - Row 1 Column A,View,No,No,No
+J1-1C,Main Warehouse,Section J Bay 1 - Row 1 Column C,View,No,No,No
+J1-1E,Main Warehouse,Section J Bay 1 - Row 1 Column E,View,No,No,No
+J1-1G,Main Warehouse,Section J Bay 1 - Row 1 Column G,View,No,No,No
+J1-1I,Main Warehouse,Section J Bay 1 - Row 1 Column I,View,No,No,No
+J1-1K,Main Warehouse,Section J Bay 1 - Row 1 Column K,View,No,No,No
+J1-2B,Main Warehouse,Section J Bay 1 - Row 2 Column B,View,No,No,No
+J1-2D,Main Warehouse,Section J Bay 1 - Row 2 Column D,View,No,No,No
+J1-2F,Main Warehouse,Section J Bay 1 - Row 2 Column F,View,No,No,No
+J1-2H,Main Warehouse,Section J Bay 1 - Row 2 Column H,View,No,No,No
+J1-2J,Main Warehouse,Section J Bay 1 - Row 2 Column J,View,No,No,No
+J1-3A,Main Warehouse,Section J Bay 1 - Row 3 Column A,View,No,No,No
+J1-3C,Main Warehouse,Section J Bay 1 - Row 3 Column C,View,No,No,No
+J1-3E,Main Warehouse,Section J Bay 1 - Row 3 Column E,View,No,No,No
+J1-3G,Main Warehouse,Section J Bay 1 - Row 3 Column G,View,No,No,No
+J1-3I,Main Warehouse,Section J Bay 1 - Row 3 Column I,View,No,No,No
+J1-3K,Main Warehouse,Section J Bay 1 - Row 3 Column K,View,No,No,No
+J1-4B,Main Warehouse,Section J Bay 1 - Row 4 Column B,View,No,No,No
+J1-4D,Main Warehouse,Section J Bay 1 - Row 4 Column D,View,No,No,No
+J2-1A,Main Warehouse,Section J Bay 2 - Row 1 Column A,View,No,No,No
+J2-1C,Main Warehouse,Section J Bay 2 - Row 1 Column C,View,No,No,No
+J2-1E,Main Warehouse,Section J Bay 2 - Row 1 Column E,View,No,No,No
+J2-1G,Main Warehouse,Section J Bay 2 - Row 1 Column G,View,No,No,No
+J2-1I,Main Warehouse,Section J Bay 2 - Row 1 Column I,View,No,No,No
+J2-1K,Main Warehouse,Section J Bay 2 - Row 1 Column K,View,No,No,No
+J2-2B,Main Warehouse,Section J Bay 2 - Row 2 Column B,View,No,No,No
+J2-2D,Main Warehouse,Section J Bay 2 - Row 2 Column D,View,No,No,No
+J2-2F,Main Warehouse,Section J Bay 2 - Row 2 Column F,View,No,No,No
+J2-2H,Main Warehouse,Section J Bay 2 - Row 2 Column H,View,No,No,No
+J2-2J,Main Warehouse,Section J Bay 2 - Row 2 Column J,View,No,No,No
+Picked-1-80770,Main Warehouse,,View,No,No,No
+Broken,Main Warehouse,,View,No,No,No
+C1-1J,Main Warehouse,Section C Bay 1 - Row 1 Column J,View,No,No,No
+C1-2A,Main Warehouse,Section C Bay 1 - Row 2 Column A,View,No,No,No
+C1-2C,Main Warehouse,Section C Bay 1 - Row 2 Column C,View,No,No,No
+C1-2E,Main Warehouse,Section C Bay 1 - Row 2 Column E,View,No,No,No
+C1-2G,Main Warehouse,Section C Bay 1 - Row 2 Column G,View,No,No,No
+C1-2I,Main Warehouse,Section C Bay 1 - Row 2 Column I,View,No,No,No
+C1-2K,Main Warehouse,Section C Bay 1 - Row 2 Column K,View,No,No,No
+C1-3B,Main Warehouse,Section C Bay 1 - Row 3 Column B,View,No,No,No
+C1-3D,Main Warehouse,Section C Bay 1 - Row 3 Column D,View,No,No,No
+C1-3F,Main Warehouse,Section C Bay 1 - Row 3 Column F,View,No,No,No
+C1-3H,Main Warehouse,Section C Bay 1 - Row 3 Column H,View,No,No,No
+C1-3J,Main Warehouse,Section C Bay 1 - Row 3 Column J,View,No,No,No
+C1-4A,Main Warehouse,Section C Bay 1 - Row 4 Column A,View,No,No,No
+C1-4C,Main Warehouse,Section C Bay 1 - Row 4 Column C,View,No,No,No
+C1-4E,Main Warehouse,Section C Bay 1 - Row 4 Column E,View,No,No,No
+C2-1B,Main Warehouse,Section C Bay 2 - Row 1 Column B,View,No,No,No
+C2-1D,Main Warehouse,Section C Bay 2 - Row 1 Column D,View,No,No,No
+C2-1F,Main Warehouse,Section C Bay 2 - Row 1 Column F,View,No,No,No
+C2-1H,Main Warehouse,Section C Bay 2 - Row 1 Column H,View,No,No,No
+C2-1J,Main Warehouse,Section C Bay 2 - Row 1 Column J,View,No,No,No
+C2-2A,Main Warehouse,Section C Bay 2 - Row 2 Column A,View,No,No,No
+C2-2C,Main Warehouse,Section C Bay 2 - Row 2 Column C,View,No,No,No
+C2-2E,Main Warehouse,Section C Bay 2 - Row 2 Column E,View,No,No,No
+C2-2G,Main Warehouse,Section C Bay 2 - Row 2 Column G,View,No,No,No
+C2-2I,Main Warehouse,Section C Bay 2 - Row 2 Column I,View,No,No,No
+C2-2K,Main Warehouse,Section C Bay 2 - Row 2 Column K,View,No,No,No
+C2-3B,Main Warehouse,Section C Bay 2 - Row 3 Column B,View,No,No,No
+C2-3D,Main Warehouse,Section C Bay 2 - Row 3 Column D,View,No,No,No
+C2-3F,Main Warehouse,Section C Bay 2 - Row 3 Column F,View,No,No,No
+C2-3H,Main Warehouse,Section C Bay 2 - Row 3 Column H,View,No,No,No
+C2-3J,Main Warehouse,Section C Bay 2 - Row 3 Column J,View,No,No,No
+C2-4A,Main Warehouse,Section C Bay 2 - Row 4 Column A,View,No,No,No
+C2-4C,Main Warehouse,Section C Bay 2 - Row 4 Column C,View,No,No,No
+C2-4E,Main Warehouse,Section C Bay 2 - Row 4 Column E,View,No,No,No
+D1-1B,Main Warehouse,Section D Bay 1 - Row 1 Column B,View,No,No,No
+D1-1D,Main Warehouse,Section D Bay 1 - Row 1 Column D,View,No,No,No
+D1-1F,Main Warehouse,Section D Bay 1 - Row 1 Column F,View,No,No,No
+D1-1H,Main Warehouse,Section D Bay 1 - Row 1 Column H,View,No,No,No
+D1-1J,Main Warehouse,Section D Bay 1 - Row 1 Column J,View,No,No,No
+D1-2A,Main Warehouse,Section D Bay 1 - Row 2 Column A,View,No,No,No
+D1-2C,Main Warehouse,Section D Bay 1 - Row 2 Column C,View,No,No,No
+D1-2E,Main Warehouse,Section D Bay 1 - Row 2 Column E,View,No,No,No
+D1-2G,Main Warehouse,Section D Bay 1 - Row 2 Column G,View,No,No,No
+D1-2I,Main Warehouse,Section D Bay 1 - Row 2 Column I,View,No,No,No
+D1-2K,Main Warehouse,Section D Bay 1 - Row 2 Column K,View,No,No,No
+D1-3B,Main Warehouse,Section D Bay 1 - Row 3 Column B,View,No,No,No
+D1-3D,Main Warehouse,Section D Bay 1 - Row 3 Column D,View,No,No,No
+D1-3F,Main Warehouse,Section D Bay 1 - Row 3 Column F,View,No,No,No
+D1-3H,Main Warehouse,Section D Bay 1 - Row 3 Column H,View,No,No,No
+D1-3J,Main Warehouse,Section D Bay 1 - Row 3 Column J,View,No,No,No
+D1-4A,Main Warehouse,Section D Bay 1 - Row 4 Column A,View,No,No,No
+D1-4C,Main Warehouse,Section D Bay 1 - Row 4 Column C,View,No,No,No
+D1-4E,Main Warehouse,Section D Bay 1 - Row 4 Column E,View,No,No,No
+D2-1B,Main Warehouse,Section D Bay 2 - Row 1 Column B,View,No,No,No
+D2-1D,Main Warehouse,Section D Bay 2 - Row 1 Column D,View,No,No,No
+D2-1F,Main Warehouse,Section D Bay 2 - Row 1 Column F,View,No,No,No
+D2-1H,Main Warehouse,Section D Bay 2 - Row 1 Column H,View,No,No,No
+D2-1J,Main Warehouse,Section D Bay 2 - Row 1 Column J,View,No,No,No
+D2-2A,Main Warehouse,Section D Bay 2 - Row 2 Column A,View,No,No,No
+D2-2C,Main Warehouse,Section D Bay 2 - Row 2 Column C,View,No,No,No
+D2-2E,Main Warehouse,Section D Bay 2 - Row 2 Column E,View,No,No,No
+D2-2G,Main Warehouse,Section D Bay 2 - Row 2 Column G,View,No,No,No
+D2-2I,Main Warehouse,Section D Bay 2 - Row 2 Column I,View,No,No,No
+D2-2K,Main Warehouse,Section D Bay 2 - Row 2 Column K,View,No,No,No
+D2-3B,Main Warehouse,Section D Bay 2 - Row 3 Column B,View,No,No,No
+D2-3D,Main Warehouse,Section D Bay 2 - Row 3 Column D,View,No,No,No
+D2-3F,Main Warehouse,Section D Bay 2 - Row 3 Column F,View,No,No,No
+D2-3H,Main Warehouse,Section D Bay 2 - Row 3 Column H,View,No,No,No
+D2-3J,Main Warehouse,Section D Bay 2 - Row 3 Column J,View,No,No,No
+D2-4A,Main Warehouse,Section D Bay 2 - Row 4 Column A,View,No,No,No
+D2-4C,Main Warehouse,Section D Bay 2 - Row 4 Column C,View,No,No,No
+D2-4E,Main Warehouse,Section D Bay 2 - Row 4 Column E,View,No,No,No
+E1-1B,Main Warehouse,Section E Bay 1 - Row 1 Column B,View,No,No,No
+E1-1D,Main Warehouse,Section E Bay 1 - Row 1 Column D,View,No,No,No
+E1-1F,Main Warehouse,Section E Bay 1 - Row 1 Column F,View,No,No,No
+E1-1H,Main Warehouse,Section E Bay 1 - Row 1 Column H,View,No,No,No
+E1-1J,Main Warehouse,Section E Bay 1 - Row 1 Column J,View,No,No,No
+E1-2A,Main Warehouse,Section E Bay 1 - Row 2 Column A,View,No,No,No
+E1-2C,Main Warehouse,Section E Bay 1 - Row 2 Column C,View,No,No,No
+E1-2E,Main Warehouse,Section E Bay 1 - Row 2 Column E,View,No,No,No
+Picked-1,Main Warehouse,,View,No,No,No
+Damaged,Main Warehouse,Damaged Inventory Bin,View,No,No,No
+Picked-1--5,Main Warehouse,,View,No,No,No
+Picked-1-19,Main Warehouse,,View,No,No,No
+Picked-1-20,Main Warehouse,,View,No,No,No
+VW-A1-1B,Main Warehouse,POS Section A Bay 1 - Row 1 Column B,View,No,No,No
+VW-A1-1D,Main Warehouse,POS Section A Bay 1 - Row 1 Column D,View,No,No,No
+VW-A1-1F,Main Warehouse,POS Section A Bay 1 - Row 1 Column F,View,No,No,No
+VW-A1-1H,Main Warehouse,POS Section A Bay 1 - Row 1 Column H,View,No,No,No
+VW-A1-1J,Main Warehouse,POS Section A Bay 1 - Row 1 Column J,View,No,No,No
+VW-A1-2A,Main Warehouse,POS Section A Bay 1 - Row 2 Column A,View,No,No,No
+VW-A1-2C,Main Warehouse,POS Section A Bay 1 - Row 2 Column C,View,No,No,No
+VW-A1-2E,Main Warehouse,POS Section A Bay 1 - Row 2 Column E,View,No,No,No
+VW-A1-2G,Main Warehouse,POS Section A Bay 1 - Row 2 Column G,View,No,No,No
+VW-A1-2I,Main Warehouse,POS Section A Bay 1 - Row 2 Column I,View,No,No,No
+VW-A1-2K,Main Warehouse,POS Section A Bay 1 - Row 2 Column K,View,No,No,No
+VW-A1-3B,Main Warehouse,POS Section A Bay 1 - Row 3 Column B,View,No,No,No
+VW-A1-3D,Main Warehouse,POS Section A Bay 1 - Row 3 Column D,View,No,No,No
+VW-A1-3F,Main Warehouse,POS Section A Bay 1 - Row 3 Column F,View,No,No,No
+VW-A1-3H,Main Warehouse,POS Section A Bay 1 - Row 3 Column H,View,No,No,No
+VW-A1-3J,Main Warehouse,POS Section A Bay 1 - Row 3 Column J,View,No,No,No
+VW-A1-4A,Main Warehouse,POS Section A Bay 1 - Row 4 Column A,View,No,No,No
+VW-A1-4C,Main Warehouse,POS Section A Bay 1 - Row 4 Column C,View,No,No,No
+VW-A1-4E,Main Warehouse,POS Section A Bay 1 - Row 4 Column E,View,No,No,No
+VW-A1-4G,Main Warehouse,POS Section A Bay 1 - Row 4 Column G,View,No,No,No
+VW-A1-4I,Main Warehouse,POS Section A Bay 1 - Row 4 Column I,View,No,No,No
+VW-A1-4K,Main Warehouse,POS Section A Bay 1 - Row 4 Column K,View,No,No,No
+VW-A2-1B,Main Warehouse,POS Section A Bay 2 - Row 1 Column B,View,No,No,No
+VW-A2-1D,Main Warehouse,POS Section A Bay 2 - Row 1 Column D,View,No,No,No
+VW-A2-1F,Main Warehouse,POS Section A Bay 2 - Row 1 Column F,View,No,No,No
+VW-A2-1H,Main Warehouse,POS Section A Bay 2 - Row 1 Column H,View,No,No,No
+VW-A2-1J,Main Warehouse,POS Section A Bay 2 - Row 1 Column J,View,No,No,No
+VW-A2-2A,Main Warehouse,POS Section A Bay 2 - Row 2 Column A,View,No,No,No
+VW-A2-2C,Main Warehouse,POS Section A Bay 2 - Row 2 Column C,View,No,No,No
+VW-A2-2E,Main Warehouse,POS Section A Bay 2 - Row 2 Column E,View,No,No,No
+VW-A2-2G,Main Warehouse,POS Section A Bay 2 - Row 2 Column G,View,No,No,No
+VW-A2-2I,Main Warehouse,POS Section A Bay 2 - Row 2 Column I,View,No,No,No
+VW-A2-2K,Main Warehouse,POS Section A Bay 2 - Row 2 Column K,View,No,No,No
+VW-A2-3B,Main Warehouse,POS Section A Bay 2 - Row 3 Column B,View,No,No,No
+VW-A2-3D,Main Warehouse,POS Section A Bay 2 - Row 3 Column D,View,No,No,No
+VW-A2-3F,Main Warehouse,POS Section A Bay 2 - Row 3 Column F,View,No,No,No
+VW-A2-3H,Main Warehouse,POS Section A Bay 2 - Row 3 Column H,View,No,No,No
+VW-A2-3J,Main Warehouse,POS Section A Bay 2 - Row 3 Column J,View,No,No,No
+VW-A2-4A,Main Warehouse,POS Section A Bay 2 - Row 4 Column A,View,No,No,No
+VW-A2-4C,Main Warehouse,POS Section A Bay 2 - Row 4 Column C,View,No,No,No
+VW-A2-4E,Main Warehouse,POS Section A Bay 2 - Row 4 Column E,View,No,No,No
+VW-A2-4G,Main Warehouse,POS Section A Bay 2 - Row 4 Column G,View,No,No,No
+VW-A2-4I,Main Warehouse,POS Section A Bay 2 - Row 4 Column I,View,No,No,No
+VW-A2-4K,Main Warehouse,POS Section A Bay 2 - Row 4 Column K,View,No,No,No
+VW-B1-3A,Main Warehouse,POS Section,View,No,No,No
+VW-C1-1A,Main Warehouse,POS Section C Bay 1 - Row 1 Column A,View,No,No,No
+VW-C1-1C,Main Warehouse,POS Section C Bay 1 - Row 1 Column C,View,No,No,No
+VW-P2,Main Warehouse,POS - Pallet Space 2,View,No,No,No
+B1-3A,Main Warehouse,Section B Bay 1 - Row 3 Column A,View,No,No,No
+B1-3C,Main Warehouse,Section B Bay 1 - Row 3 Column C,View,No,No,No
+B1-3E,Main Warehouse,Section B Bay 1 - Row 3 Column E,View,No,No,No
+B1-3G,Main Warehouse,Section B Bay 1 - Row 3 Column G,View,No,No,No
+B1-3I,Main Warehouse,Section B Bay 1 - Row 3 Column I,View,No,No,No
+B1-3K,Main Warehouse,Section B Bay 1 - Row 3 Column K,View,No,No,No
+B1-4B,Main Warehouse,Section B Bay 1 - Row 4 Column B,View,No,No,No
+B1-4D,Main Warehouse,Section B Bay 1 - Row 4 Column D,View,No,No,No
+B2-1A,Main Warehouse,Section B Bay 2 - Row 1 Column A,View,No,No,No
+B2-1C,Main Warehouse,Section B Bay 2 - Row 1 Column C,View,No,No,No
+B2-1E,Main Warehouse,Section B Bay 2 - Row 1 Column E,View,No,No,No
+B2-1G,Main Warehouse,Section B Bay 2 - Row 1 Column G,View,No,No,No
+B2-1I,Main Warehouse,Section B Bay 2 - Row 1 Column I,View,No,No,No
+B2-1K,Main Warehouse,Section B Bay 2 - Row 1 Column K,View,No,No,No
+B2-2B,Main Warehouse,Section B Bay 2 - Row 2 Column B,View,No,No,No
+B2-2D,Main Warehouse,Section B Bay 2 - Row 2 Column D,View,No,No,No
+B2-2F,Main Warehouse,Section B Bay 2 - Row 2 Column F,View,No,No,No
+B2-2H,Main Warehouse,Section B Bay 2 - Row 2 Column H,View,No,No,No
+B2-2J,Main Warehouse,Section B Bay 2 - Row 2 Column J,View,No,No,No
+B2-3A,Main Warehouse,Section B Bay 2 - Row 3 Column A,View,No,No,No
+B2-3C,Main Warehouse,Section B Bay 2 - Row 3 Column C,View,No,No,No
+B2-3E,Main Warehouse,Section B Bay 2 - Row 3 Column E,View,No,No,No
+B2-3G,Main Warehouse,Section B Bay 2 - Row 3 Column G,View,No,No,No
+B2-3I,Main Warehouse,Section B Bay 2 - Row 3 Column I,View,No,No,No
+B2-3K,Main Warehouse,Section B Bay 2 - Row 3 Column K,View,No,No,No
+B2-4B,Main Warehouse,Section B Bay 2 - Row 4 Column B,View,No,No,No
+B2-4D,Main Warehouse,Section B Bay 2 - Row 4 Column D,View,No,No,No
+C1-1A,Main Warehouse,Section C Bay 1 - Row 1 Column A,View,No,No,No
+C1-1C,Main Warehouse,Section C Bay 1 - Row 1 Column C,View,No,No,No
+C1-1E,Main Warehouse,Section C Bay 1 - Row 1 Column E,View,No,No,No
+C1-1G,Main Warehouse,Section C Bay 1 - Row 1 Column G,View,No,No,No
+C1-1I,Main Warehouse,Section C Bay 1 - Row 1 Column I,View,No,No,No
+C1-1K,Main Warehouse,Section C Bay 1 - Row 1 Column K,View,No,No,No
+C1-2B,Main Warehouse,Section C Bay 1 - Row 2 Column B,View,No,No,No
+C1-2D,Main Warehouse,Section C Bay 1 - Row 2 Column D,View,No,No,No
+C1-2F,Main Warehouse,Section C Bay 1 - Row 2 Column F,View,No,No,No
+C1-2H,Main Warehouse,Section C Bay 1 - Row 2 Column H,View,No,No,No
+C1-2J,Main Warehouse,Section C Bay 1 - Row 2 Column J,View,No,No,No
+C1-3A,Main Warehouse,Section C Bay 1 - Row 3 Column A,View,No,No,No
+C1-3C,Main Warehouse,Section C Bay 1 - Row 3 Column C,View,No,No,No
+C1-3E,Main Warehouse,Section C Bay 1 - Row 3 Column E,View,No,No,No
+C1-3G,Main Warehouse,Section C Bay 1 - Row 3 Column G,View,No,No,No
+C1-3I,Main Warehouse,Section C Bay 1 - Row 3 Column I,View,No,No,No
+C1-3K,Main Warehouse,Section C Bay 1 - Row 3 Column K,View,No,No,No
+C1-4B,Main Warehouse,Section C Bay 1 - Row 4 Column B,View,No,No,No
+C1-4D,Main Warehouse,Section C Bay 1 - Row 4 Column D,View,No,No,No
+C2-1A,Main Warehouse,Section C Bay 2 - Row 1 Column A,View,No,No,No
+C2-1C,Main Warehouse,Section C Bay 2 - Row 1 Column C,View,No,No,No
+C2-1E,Main Warehouse,Section C Bay 2 - Row 1 Column E,View,No,No,No
+C2-1G,Main Warehouse,Section C Bay 2 - Row 1 Column G,View,No,No,No
+C2-1I,Main Warehouse,Section C Bay 2 - Row 1 Column I,View,No,No,No
+C2-1K,Main Warehouse,Section C Bay 2 - Row 1 Column K,View,No,No,No
+C2-2B,Main Warehouse,Section C Bay 2 - Row 2 Column B,View,No,No,No
+C2-2D,Main Warehouse,Section C Bay 2 - Row 2 Column D,View,No,No,No
+C2-2F,Main Warehouse,Section C Bay 2 - Row 2 Column F,View,No,No,No
+C2-2H,Main Warehouse,Section C Bay 2 - Row 2 Column H,View,No,No,No
+C2-2J,Main Warehouse,Section C Bay 2 - Row 2 Column J,View,No,No,No
+C2-3A,Main Warehouse,Section C Bay 2 - Row 3 Column A,View,No,No,No
+C2-3C,Main Warehouse,Section C Bay 2 - Row 3 Column C,View,No,No,No
+C2-3E,Main Warehouse,Section C Bay 2 - Row 3 Column E,View,No,No,No
+C2-3G,Main Warehouse,Section C Bay 2 - Row 3 Column G,View,No,No,No
+C2-3I,Main Warehouse,Section C Bay 2 - Row 3 Column I,View,No,No,No
+C2-3K,Main Warehouse,Section C Bay 2 - Row 3 Column K,View,No,No,No
+C2-4B,Main Warehouse,Section C Bay 2 - Row 4 Column B,View,No,No,No
+C2-4D,Main Warehouse,Section C Bay 2 - Row 4 Column D,View,No,No,No
+D1-1A,Main Warehouse,Section D Bay 1 - Row 1 Column A,View,No,No,No
+D1-1C,Main Warehouse,Section D Bay 1 - Row 1 Column C,View,No,No,No
+D1-1E,Main Warehouse,Section D Bay 1 - Row 1 Column E,View,No,No,No
+D1-1G,Main Warehouse,Section D Bay 1 - Row 1 Column G,View,No,No,No
+D1-1I,Main Warehouse,Section D Bay 1 - Row 1 Column I,View,No,No,No
+D1-1K,Main Warehouse,Section D Bay 1 - Row 1 Column K,View,No,No,No
+D1-2B,Main Warehouse,Section D Bay 1 - Row 2 Column B,View,No,No,No
+D1-2D,Main Warehouse,Section D Bay 1 - Row 2 Column D,View,No,No,No
+D1-2F,Main Warehouse,Section D Bay 1 - Row 2 Column F,View,No,No,No
+D1-2H,Main Warehouse,Section D Bay 1 - Row 2 Column H,View,No,No,No
+D1-2J,Main Warehouse,Section D Bay 1 - Row 2 Column J,View,No,No,No
+D1-3A,Main Warehouse,Section D Bay 1 - Row 3 Column A,View,No,No,No
+D1-3C,Main Warehouse,Section D Bay 1 - Row 3 Column C,View,No,No,No
+D1-3E,Main Warehouse,Section D Bay 1 - Row 3 Column E,View,No,No,No
+D1-3G,Main Warehouse,Section D Bay 1 - Row 3 Column G,View,No,No,No
+D1-3I,Main Warehouse,Section D Bay 1 - Row 3 Column I,View,No,No,No
+D1-3K,Main Warehouse,Section D Bay 1 - Row 3 Column K,View,No,No,No
+D1-4B,Main Warehouse,Section D Bay 1 - Row 4 Column B,View,No,No,No
+D1-4D,Main Warehouse,Section D Bay 1 - Row 4 Column D,View,No,No,No
+D2-1A,Main Warehouse,Section D Bay 2 - Row 1 Column A,View,No,No,No
+D2-1C,Main Warehouse,Section D Bay 2 - Row 1 Column C,View,No,No,No
+D2-1E,Main Warehouse,Section D Bay 2 - Row 1 Column E,View,No,No,No
+D2-1G,Main Warehouse,Section D Bay 2 - Row 1 Column G,View,No,No,No
+D2-1I,Main Warehouse,Section D Bay 2 - Row 1 Column I,View,No,No,No
+D2-1K,Main Warehouse,Section D Bay 2 - Row 1 Column K,View,No,No,No
+D2-2B,Main Warehouse,Section D Bay 2 - Row 2 Column B,View,No,No,No
+D2-2D,Main Warehouse,Section D Bay 2 - Row 2 Column D,View,No,No,No
+D2-2F,Main Warehouse,Section D Bay 2 - Row 2 Column F,View,No,No,No
+D2-2H,Main Warehouse,Section D Bay 2 - Row 2 Column H,View,No,No,No
+D2-2J,Main Warehouse,Section D Bay 2 - Row 2 Column J,View,No,No,No
+D2-3A,Main Warehouse,Section D Bay 2 - Row 3 Column A,View,No,No,No
+D2-3C,Main Warehouse,Section D Bay 2 - Row 3 Column C,View,No,No,No
+D2-3E,Main Warehouse,Section D Bay 2 - Row 3 Column E,View,No,No,No
+D2-3G,Main Warehouse,Section D Bay 2 - Row 3 Column G,View,No,No,No
+D2-3I,Main Warehouse,Section D Bay 2 - Row 3 Column I,View,No,No,No
+D2-3K,Main Warehouse,Section D Bay 2 - Row 3 Column K,View,No,No,No
+D2-4B,Main Warehouse,Section D Bay 2 - Row 4 Column B,View,No,No,No
+D2-4D,Main Warehouse,Section D Bay 2 - Row 4 Column D,View,No,No,No
+E1-1A,Main Warehouse,Section E Bay 1 - Row 1 Column A,View,No,No,No
+E1-1C,Main Warehouse,Section E Bay 1 - Row 1 Column C,View,No,No,No
+E1-1E,Main Warehouse,Section E Bay 1 - Row 1 Column E,View,No,No,No
+E1-1G,Main Warehouse,Section E Bay 1 - Row 1 Column G,View,No,No,No
+E1-1I,Main Warehouse,Section E Bay 1 - Row 1 Column I,View,No,No,No
+VW-A1-4D-6,POS & DC KITS,VW Section A Bay 1 - Row 4 Column D,View,No,No,No
+VW-A1-4H-6,POS & DC KITS,VW Section A Bay 1 - Row 4 Column H,View,No,No,No
+VW-A1-4I-6,POS & DC KITS,VW Section A Bay 1 - Row 4 Column I,View,No,No,No
+VW-A1-4J-6,POS & DC KITS,VW Section A Bay 1 - Row 4 Column J,View,No,No,No
+VW-A1-4K-6,POS & DC KITS,VW Section A Bay 1 - Row 4 Column K,View,No,No,No
+VW-A2-1A-6,POS & DC KITS,VW Section A Bay 2 - Row 1 Column A,View,No,No,No
+VW-A2-1E-6,POS & DC KITS,VW Section A Bay 2 - Row 1 Column E,View,No,No,No
+VW-A2-1F-6,POS & DC KITS,VW Section A Bay 2 - Row 1 Column F,View,No,No,No
+VW-A2-1G-6,POS & DC KITS,VW Section A Bay 2 - Row 1 Column G,View,No,No,No
+VW-A2-1H-6,POS & DC KITS,VW Section A Bay 2 - Row 1 Column H,View,No,No,No
+VW-A2-1I-6,POS & DC KITS,VW Section A Bay 2 - Row 1 Column I,View,No,No,No
+VW-A2-1K-6,POS & DC KITS,VW Section A Bay 2 - Row 1 Column K,View,No,No,No
+VW-A2-2A-6,POS & DC KITS,VW Section A Bay 2 - Row 2 Column A,View,No,No,No
+VW-A2-2B-6,POS & DC KITS,VW Section A Bay 2 - Row 2 Column B,View,No,No,No
+VW-A2-2E-6,POS & DC KITS,VW Section A Bay 2 - Row 2 Column E,View,No,No,No
+VW-A2-2F-6,POS & DC KITS,VW Section A Bay 2 - Row 2 Column F,View,No,No,No
+VW-A2-2H-6,POS & DC KITS,VW Section A Bay 2 - Row 2 Column H,View,No,No,No
+VW-A2-2I-6,POS & DC KITS,VW Section A Bay 2 - Row 2 Column I,View,No,No,No
+VW-A2-2J-6,POS & DC KITS,VW Section A Bay 2 - Row 2 Column J,View,No,No,No
+VW-A2-3B-6,POS & DC KITS,VW Section A Bay 2 - Row 3 Column B,View,No,No,No
+VW-A2-3C-6,POS & DC KITS,VW Section A Bay 2 - Row 3 Column C,View,No,No,No
+VW-A2-3E-6,POS & DC KITS,VW Section A Bay 2 - Row 3 Column E,View,No,No,No
+VW-A2-3F-6,POS & DC KITS,VW Section A Bay 2 - Row 3 Column F,View,No,No,No
+VW-A2-3G-6,POS & DC KITS,VW Section A Bay 2 - Row 3 Column G,View,No,No,No
+VW-A2-3J-6,POS & DC KITS,VW Section A Bay 2 - Row 3 Column J,View,No,No,No
+VW-A2-3K-6,POS & DC KITS,VW Section A Bay 2 - Row 3 Column K,View,No,No,No
+VW-A2-4B-6,POS & DC KITS,VW Section A Bay 2 - Row 4 Column B,View,No,No,No
+VW-A2-4C-6,POS & DC KITS,VW Section A Bay 2 - Row 4 Column C,View,No,No,No
+VW-A2-4D-6,POS & DC KITS,VW Section A Bay 2 - Row 4 Column D,View,No,No,No
+VW-A2-4G-6,POS & DC KITS,VW Section A Bay 2 - Row 4 Column G,View,No,No,No
+VW-A2-4H-6,POS & DC KITS,VW Section A Bay 2 - Row 4 Column H,View,No,No,No
+VW-A2-4J-6,POS & DC KITS,VW Section A Bay 2 - Row 4 Column J,View,No,No,No
+VW-A2-4K-6,POS & DC KITS,VW Section A Bay 2 - Row 4 Column K,View,No,No,No
+Temp-Receipt-Bin,POS & DC KITS,"Temporary Receiving Bin for Inventory Transfers between ""Warehouses""",View,Yes,No,No
+Picked-6-19,POS & DC KITS,,View,No,No,No
+VW-P1-6,POS & DC KITS,VW - Pallet Space 1,View,No,No,No
+VW-P2-6,POS & DC KITS,VW - Pallet Space 2,View,No,No,No
+VW-P3-6,POS & DC KITS,VW - Pallet Space 3,View,No,No,No
+Picked-6,POS & DC KITS,,View,No,No,No
+VW-A1-1H-6,POS & DC KITS,VW Section A Bay 1 - Row 1 Column H,View,No,No,No
+VW-A1-2E-6,POS & DC KITS,VW Section A Bay 1 - Row 2 Column E,View,No,No,No
+VW-A1-3B-6,POS & DC KITS,VW Section A Bay 1 - Row 3 Column B,View,No,No,No
+VW-A1-3J-6,POS & DC KITS,VW Section A Bay 1 - Row 3 Column J,View,No,No,No
+VW-A1-4G-6,POS & DC KITS,VW Section A Bay 1 - Row 4 Column G,View,No,No,No
+VW-A2-1D-6,POS & DC KITS,VW Section A Bay 2 - Row 1 Column D,View,No,No,No
+VW-A2-2D-6,POS & DC KITS,VW Section A Bay 2 - Row 2 Column D,View,No,No,No
+VW-A2-3A-6,POS & DC KITS,VW Section A Bay 2 - Row 3 Column A,View,No,No,No
+VW-A2-3I-6,POS & DC KITS,VW Section A Bay 2 - Row 3 Column I,View,No,No,No
+VW-A2-4F-6,POS & DC KITS,VW Section A Bay 2 - Row 4 Column F,View,No,No,No
+Picked-6-20,POS & DC KITS,,View,No,No,No
+Picked-6-35962,POS & DC KITS,,View,No,No,No
+VW-C1-1A-6,POS & DC KITS,VW Section C Bay 1 - Row 1 Column A,View,No,No,No
+Picked-6-19-Old,POS & DC KITS,,View,No,No,No
+VW-C1-1B-6,POS & DC KITS,VW Section C Bay 1 - Row 1 Column B,View,No,No,No
+VW-C1-1C-6,POS & DC KITS,VW Section C Bay 1 - Row 1 Column C,View,No,No,No
+VW-A1-1A-6-6,POS & DC KITS,,View,No,No,No
+VW-A1-1F-6,POS & DC KITS,VW Section A Bay 1 - Row 1 Column F,View,No,No,No
+VW-A1-1G-6,POS & DC KITS,VW Section A Bay 1 - Row 1 Column G,View,No,No,No
+VW-A1-2C-6,POS & DC KITS,VW Section A Bay 1 - Row 2 Column C,View,No,No,No
+VW-A1-2D-6,POS & DC KITS,VW Section A Bay 1 - Row 2 Column D,View,No,No,No
+VW-A1-2K-6,POS & DC KITS,VW Section A Bay 1 - Row 2 Column K,View,No,No,No
+VW-A1-3A-6,POS & DC KITS,VW Section A Bay 1 - Row 3 Column A,View,No,No,No
+VW-A1-3H-6,POS & DC KITS,VW Section A Bay 1 - Row 3 Column H,View,No,No,No
+VW-A1-3I-6,POS & DC KITS,VW Section A Bay 1 - Row 3 Column I,View,No,No,No
+VW-A1-4E-6,POS & DC KITS,VW Section A Bay 1 - Row 4 Column E,View,No,No,No
+VW-A1-4F-6,POS & DC KITS,VW Section A Bay 1 - Row 4 Column F,View,No,No,No
+VW-A2-1B-6,POS & DC KITS,VW Section A Bay 2 - Row 1 Column B,View,No,No,No
+VW-A2-1C-6,POS & DC KITS,VW Section A Bay 2 - Row 1 Column C,View,No,No,No
+VW-A2-1J-6,POS & DC KITS,VW Section A Bay 2 - Row 1 Column J,View,No,No,No
+VW-A2-2C-6,POS & DC KITS,VW Section A Bay 2 - Row 2 Column C,View,No,No,No
+VW-A2-2G-6,POS & DC KITS,VW Section A Bay 2 - Row 2 Column G,View,No,No,No
+VW-A2-2K-6,POS & DC KITS,VW Section A Bay 2 - Row 2 Column K,View,No,No,No
+VW-A2-3D-6,POS & DC KITS,VW Section A Bay 2 - Row 3 Column D,View,No,No,No
+VW-A2-3H-6,POS & DC KITS,VW Section A Bay 2 - Row 3 Column H,View,No,No,No
+VW-A2-4A-6,POS & DC KITS,VW Section A Bay 2 - Row 4 Column A,View,No,No,No
+VW-A2-4E-6,POS & DC KITS,VW Section A Bay 2 - Row 4 Column E,View,No,No,No
+VW-A2-4I-6,POS & DC KITS,VW Section A Bay 2 - Row 4 Column I,View,No,No,No
+VW-B1-4A-6,POS & DC KITS,,View,No,No,No
+VW-B1-2A-6,POS & DC KITS,,View,No,No,No
+VW-B1-3A-6,POS & DC KITS,,View,No,No,No
+VW-A1-1B-6,POS & DC KITS,VW Section A Bay 1 - Row 1 Column B,View,No,No,No
+VW-A1-1C-6,POS & DC KITS,VW Section A Bay 1 - Row 1 Column C,View,No,No,No
+VW-A1-1D-6,POS & DC KITS,VW Section A Bay 1 - Row 1 Column D,View,No,No,No
+VW-A1-1E-6,POS & DC KITS,VW Section A Bay 1 - Row 1 Column E,View,No,No,No
+VW-A1-1I-6,POS & DC KITS,VW Section A Bay 1 - Row 1 Column I,View,No,No,No
+VW-A1-1J-6,POS & DC KITS,VW Section A Bay 1 - Row 1 Column J,View,No,No,No
+VW-A1-1K-6,POS & DC KITS,VW Section A Bay 1 - Row 1 Column K,View,No,No,No
+VW-A1-2A-6,POS & DC KITS,VW Section A Bay 1 - Row 2 Column A,View,No,No,No
+VW-A1-2B-6,POS & DC KITS,VW Section A Bay 1 - Row 2 Column B,View,No,No,No
+VW-A1-2F-6,POS & DC KITS,VW Section A Bay 1 - Row 2 Column F,View,No,No,No
+VW-A1-2G-6,POS & DC KITS,VW Section A Bay 1 - Row 2 Column G,View,No,No,No
+VW-A1-2H-6,POS & DC KITS,VW Section A Bay 1 - Row 2 Column H,View,No,No,No
+VW-A1-2I-6,POS & DC KITS,VW Section A Bay 1 - Row 2 Column I,View,No,No,No
+VW-A1-2J-6,POS & DC KITS,VW Section A Bay 1 - Row 2 Column J,View,No,No,No
+VW-A1-3C-6,POS & DC KITS,VW Section A Bay 1 - Row 3 Column C,View,No,No,No
+VW-A1-3D-6,POS & DC KITS,VW Section A Bay 1 - Row 3 Column D,View,No,No,No
+VW-A1-3E-6,POS & DC KITS,VW Section A Bay 1 - Row 3 Column E,View,No,No,No
+VW-A1-3F-6,POS & DC KITS,VW Section A Bay 1 - Row 3 Column F,View,No,No,No
+VW-A1-3G-6,POS & DC KITS,VW Section A Bay 1 - Row 3 Column G,View,No,No,No
+VW-A1-3K-6,POS & DC KITS,VW Section A Bay 1 - Row 3 Column K,View,No,No,No
+VW-A1-4A-6,POS & DC KITS,VW Section A Bay 1 - Row 4 Column A,View,No,No,No
+VW-A1-4B-6,POS & DC KITS,VW Section A Bay 1 - Row 4 Column B,View,No,No,No
+VW-A1-4C-6,POS & DC KITS,VW Section A Bay 1 - Row 4 Column C,View,No,No,No
+TEST-QA-BIN,QA/Returns Warehouse,,View,No,No,No

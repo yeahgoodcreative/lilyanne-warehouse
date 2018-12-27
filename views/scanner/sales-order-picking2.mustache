@@ -37,7 +37,7 @@
                     <div class="left">
                         <p><strong id="productId"></strong></p>
                         <p id="description"></p>
-                        <p>Bin: <strong>NULL</strong></p>
+                        <p>Bin: <strong>{{binNumber}}</strong></p>
                     </div>
 
                     <div class="right">
@@ -71,6 +71,7 @@
         </script>
 
         <script>
+            $( 'input[name="item"]' ).focus()
             var orderId = $('input[name="orderId"]').val()
 
             var itemsCount = $('.list-item').length
@@ -124,6 +125,8 @@
                             renderItems()
                         }
                     }
+
+                    $( 'input[name="item"]' ).focus()
 
                 }
             })
