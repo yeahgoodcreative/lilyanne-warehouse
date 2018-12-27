@@ -83,6 +83,21 @@ app.get('/orders/orderlabel', function(req, res) {
     doc.end()
 })
 
+app.get('/orders/setstatus', function(req, res) {
+    var orderId = req.query.orderId
+    var status = req.query.status
+
+    if (orderId != '' && status == 'shipped') {
+
+        byDesign.setStatusShipped('', orderId, function(data) {
+            console.log(data['soap:Envelope']['soap:Body'][0]['SetStatusShippedResponse'][0]['SetStatusShippedResult'])
+
+            res.redirect('/')
+        })
+    }
+    
+})
+
 app.get('/orders/packslip', function(req, res) {
 
     // Set response content type

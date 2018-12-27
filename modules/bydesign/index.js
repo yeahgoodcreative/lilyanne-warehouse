@@ -8,5 +8,6 @@
 module.exports = {
     getOrderListRecent: require('./ordersapi/getOrderListRecent'),
     getOrderInfoV2: require('./ordersapi/getOrderInfoV2'),
-    getOrderDetailsInfoV2: require('./ordersapi/getOrderDetailsInfoV2')
+    getOrderDetailsInfoV2: require('./ordersapi/getOrderDetailsInfoV2'),
+    setStatusShipped: require('./ordersapi/setStatusShipped')
 }
